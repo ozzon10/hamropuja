@@ -1,0 +1,109 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+
+.yagya{
+.content .title {
+	margin-top: 40px;
+    
+    hr{
+        margin-top: 12px;
+        margin-bottom: 0px;
+    }
+  }
+  .content .title h1 {
+	font-size: 26px;
+  }
+  
+.content{
+
+    .descr{
+        margin-top: 22px;
+    }
+    .list{
+        margin-top: 34px;
+        .card-body{
+            padding: 10px 16px 16px;
+            
+        }
+        .card-title{
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        .card-text{
+            font-size: 14px;
+            
+        }
+
+        .card{             
+            img{
+                height:110px;
+                width:125px;
+            }
+            height:110px;
+            overflow: hidden;
+        }
+
+        @media (min-width: 576px){
+            .card{
+                height:60px;
+                img{
+                    height:60px;
+                    width:67px;
+                }
+                .card-title{
+                    font-size: 14px;
+                }
+                
+            }
+        }
+        
+
+        
+
+        @media (min-width: 768px){
+            .card{
+                height:70px;
+            
+                img{
+                    height: 70px;
+                    width: 87px;
+                }
+                .card-title{
+                    font-size: 18px;
+                }
+            }
+        }
+
+        @media (min-width: 992px){
+            .card{
+                height: 90px;
+                img{
+                    height:90px;
+                    width: 107px;
+                }
+                .card-title{
+                    font-size: 18px;
+                }
+                overflow: hidden;
+            }
+        }
+
+        @media (min-width: 1220px){
+            .card{
+                height: 120px;
+                img{
+                    width: 137px;
+                    height:120px;
+                }
+                
+                .card-title{
+                    font-size: 18px;
+                }
+            }
+        }
+
+    }
+}
+}

@@ -1,0 +1,84 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+
+.home{
+.content{
+    .slidercover{
+        height:441px;
+        overflow: hidden;
+        text-align: center;
+        @media (max-width:576px){
+            height: 230px;
+        }
+    }
+
+    .feature{
+        margin-top: 61px;
+        .imgcover{
+            overflow: hidden;
+            height: 300px;
+        }
+        
+    }
+
+    .plan{
+        margin-top: 36px;
+
+        .member{
+            color:white;
+            padding:20px;
+            font-size: 16px;
+        }
+    }
+
+    .blog{
+        margin-top: 36px;
+        .btn-primary{
+            background-color:white;
+            color:black;
+            margin-bottom: 20px;
+            img{
+                width:18px;
+            }
+        }
+        .imgcover{
+            overflow: hidden;
+            height: 200px;
+
+        }
+        
+    }
+
+    .clientsays{
+        margin:60px 0;
+        img{
+            width: 80px;
+            height: 80px;
+        }
+
+        @media (min-width: 768px){
+            img{
+                width: 60px;
+                height: 60px;
+            }
+        }
+
+        @media (min-width: 992px){
+            img{
+                width:80px;
+                height: 80px;
+            }
+        }
+    } 
+    
+}
+}
+
+
+
+
+
+
+
+

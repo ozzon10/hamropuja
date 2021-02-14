@@ -1,0 +1,9 @@
+footer {
+  color: white;
+  background: crimson;
+  padding: 60px 30px;
+}
+footer a {
+  color: darkgoldenrod;
+  text-decoration: none;
+}

@@ -1,0 +1,29 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.cart{
+.content{
+    .breadcrumb{
+        margin-top: 40px;
+        margin-bottom: 16px;
+    }
+    .title h1{
+        font-size: 26px;
+        hr{
+            margin: 20px 0px 0px 0px;
+         }
+    }
+    .items{
+        .card{
+            .card-body{
+                padding:0px;
+            }
+            border: none;
+            .image{
+                overflow: hidden;
+                height: 90px;
+            }
+        }
+    }
+}
+}

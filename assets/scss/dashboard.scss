@@ -1,0 +1,22 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.dashboard{
+.content{
+    .panel{
+        .pic{
+            height: 124px;
+            width: 124px;
+        }
+        a{
+            text-align: left;
+        }
+        a.active{
+            font-weight: bold;
+        }
+    }
+    .date{
+        width:fit-content;
+    }
+}
+}

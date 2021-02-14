@@ -1,0 +1,36 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.pujadetail{
+.content{
+    .breadcrumb{
+        margin-top: 40px;
+        margin-bottom: 16px;
+    }
+    .title h1{
+        font-size: 26px;
+        .location{
+            font-size: 16px;
+        }
+        hr{
+            margin: 20px 0px 0px 0px;
+         }
+    }
+    .list-group{
+        background-color: transparent;
+    }
+    .name{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .review{
+        .imgcover{
+        img{
+            height: 100%;
+            width: 100%;
+        }
+    }
+    }
+
+}
+}

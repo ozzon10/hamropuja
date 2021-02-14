@@ -1,0 +1,195 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.puja{
+.content {
+	.feature {
+		margin-top: 30px;
+		color: white;
+		.card {
+			background: none;
+			border: none;
+			overflow: hidden;
+		}
+	}
+}
+@media (min-width: 576px) {
+	.content {
+		.feature {
+			.card {
+				.card-img-overlay {
+					padding: 30px 134px;
+					.card-title {
+						font-size: 19px;
+					}
+					.card-text {
+						font-size: 13px;
+					}
+				}
+			}
+		}
+	}
+}
+@media (min-width: 768px) {
+	.content {
+		.feature {
+			.card {
+				.card-img-overlay {
+					padding: 50px 154px;
+					.card-title {
+						font-size: 20px;
+					}
+					.card-text {
+						font-size: 14px;
+					}
+				}
+			}
+		}
+	}
+}
+@media (min-width: 992px) {
+	.content {
+		.feature {
+			.card {
+				.card-img-overlay {
+					padding: 60px 164px;
+					.card-title {
+						font-size: 24px;
+					}
+					.card-text {
+						font-size: 18px;
+					}
+				}
+			}
+		}
+	}
+}
+@media (min-width: 1220px) {
+	.content {
+		.feature {
+			.card {
+				.imgcover {
+					height: 343px;
+				}
+				.card-img-overlay {
+					padding: 20px 30px;
+					top: auto;
+					background: #b74e4e;
+					.card-title {
+						font-size: 30px;
+					}
+					.card-text {
+						font-size: 14px;
+					}
+				}
+			}
+		}
+	}
+}
+.content .title {
+	margin-top: 40px;
+  }
+  .content .title h1 {
+	font-size: 26px;
+  }
+.content{
+    .list{
+        margin-top: 34px;
+        .card-body{
+            padding:5px 16px 16px;
+            .card-title{
+                font-weight: 600;
+            }
+        }
+
+        .card{             
+            height: 110px;
+            img{
+                height:110px;
+                width:125px;
+            }
+            .card-type{
+                font-size: 16px;
+            }
+            .card-text{
+                font-size: 14px;
+                
+            }
+            .card-title{
+                font-size: 18px;
+            }
+            overflow: hidden;
+        }
+
+        @media (min-width: 576px){
+            .card{
+                height:60px;
+                img{
+                    height:60px;
+                    width:77px;
+                }
+                .card-type{
+                    font-size: 10px;
+                }
+                .card-title{
+                    font-size: 12px;
+                }
+                
+            }
+        }
+
+        @media (min-width: 768px){
+            .card{
+                height:70px;
+            
+                img{
+                    height: 70px;
+                    width: 87px;
+                }
+                .card-type{
+                    font-size: 12px;
+                }
+                .card-title{
+                    font-size: 14px
+                }
+            }
+        }
+
+        @media (min-width: 992px){
+            .card{
+                height: 90px;
+                img{
+                    height:90px;
+                    width: 107px;
+                }
+                .card-type{
+                    font-size: 16px;
+                }
+                .card-title{
+                    font-size: 18px;
+                }
+            }
+        }
+
+        @media (min-width: 1220px){
+            .card{
+                height: 120px;
+                img{
+                    width: 137px;
+                    height:120px;
+                }
+                .card-type{
+                    font-size: 16px;
+                }
+                .card-text{
+                    font-size: 14px;
+                }
+                .card-title{
+                    font-size: 18px;
+                }
+            }
+        }
+
+    }
+}
+}

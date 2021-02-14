@@ -1,0 +1,64 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+
+.about{
+.content .title {
+	margin-top: 40px;
+    
+    hr{
+        margin-top: 12px;
+        margin-bottom: 0px;
+    }
+  }
+  .content .title h1 {
+	font-size: 26px;
+  }
+  
+.content{
+    .descri{
+        font-size: 24px;
+    }
+    .card{
+        background-color: transparent;
+        border: none;
+        .card-body{
+            padding-top: 0px;
+        }
+        .image{
+            height: 90px;
+            width: 90px;
+            overflow: hidden;
+
+        }
+        @media (min-width:576px){
+            .image{
+                height: 120px;
+                width: 120px;
+            }
+        }
+        @media (min-width:768px){
+            .image{
+                height: 100px;
+                width: 100px;
+            }
+        }
+        @media (min-width:992px){
+            .image{
+                height: 100px;
+                width: 100px;
+            }
+        }
+        @media (min-width:1200px){
+            .image{
+                height: 120px;
+                width: 120px;
+            }
+        }
+        .card-title{
+            font-size: 18px;
+        }
+    }
+    
+}
+}

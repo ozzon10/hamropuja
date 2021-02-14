@@ -1,0 +1,29 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.memberform{
+.content{
+    .breadcrumb{
+        margin-top: 40px;
+        margin-bottom: 16px;
+    }
+    .title h1{
+        font-size: 26px;
+        hr{
+            margin: 20px 0px 0px 0px;
+         }
+    }
+    form{
+        .row{
+            margin-bottom: 20px;
+        }
+        input{
+            border-radius: 0px;
+        }
+        select{
+            border-radius: 0px;
+        }
+    }
+}
+}
+

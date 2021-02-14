@@ -1,0 +1,155 @@
+$brand      :#FF9537;
+$red-color  :#C10F0F;
+
+
+.header {
+	background-color: #FF9537;
+	.btn-primary {
+		box-shadow: none;
+	}
+	.navbar-brand {
+		padding: 10px 15px;
+		display: block;
+	}
+	.navbar-light {
+		.navbar-nav {
+			.nav-link {
+				color: white;
+				padding-right: 10px;
+				&:hover {
+					opacity: 0.6;
+				}
+			}
+		}
+	}
+	.navbar {
+		margin-left: -15px;
+		padding: 0;
+		background-color: #FF9537;
+		.navbar-collapse {
+			margin-left: 0px;
+			.action {
+				.btn {
+					box-shadow: none;
+					position: relative;
+					&:hover {
+						box-shadow: 0 2px 5px 0px rgba(0, 0, 0, 0.08);
+					}
+					.badge {
+						right: -5px;
+						position: absolute;
+						padding: 3px;
+						width: 16px;
+						top: -5px;
+						font-size: 9px;
+					}
+				}
+				.btn.btn-link {
+					padding-left: 5px;
+					padding-right: 5px;
+					img {
+						width: 20px;
+					}
+					&:hover {
+						box-shadow: 0 2px 5px 0px rgba(0, 0, 0, 0.08);
+						background: rgba(255, 255, 255, 0.2);
+					}
+				}
+				.dropdown-menu {
+					margin: 0;
+					padding: 0;
+					li {
+						a {
+							img {
+								width: 26px;
+							}
+							&:focus {
+								border: none;
+								outline: none;
+							}
+							&:hover {
+								border-radius: 0.25rem;
+							}
+						}
+					}
+				}
+				.lang {
+					.dropdown-menu {
+						min-width: 53px;
+					}
+				}
+				.cart {
+					.dropdown-menu {
+						padding: 15px 20px;
+						width: 280px;
+						font-size: 14px;
+						.title {
+							width: 200px;
+						}
+						.qty {
+							width: 70px;
+						}
+						.price {
+							width: 70px;
+						}
+					}
+				}
+			}
+		}
+	}
+	.subhead {
+		background-color: white;
+		box-shadow: 0 3px 7px 2px rgba(0, 0, 0, 0.06);
+		.utility {
+			height: 36px;
+		}
+		.topbtns {
+			width: auto;
+			.search {
+				margin-right: 10px;
+				input {
+					border: none;
+					padding: 7px;
+				}
+				span {
+					line-height: 34px;
+					img {
+						width: 18px;
+					}
+				}
+			}
+			.donate {
+				background-color: #F1EE8F;
+				color: black;
+				line-height: 28px;
+				padding-left: 15px;
+				padding-right: 15px;
+			}
+			.download {
+				a {
+					line-height: 28px;
+					padding-left: 15px;
+					padding-right: 15px;
+				}
+			}
+		}
+		img {
+			width: 18px;
+		}
+	}
+}
+@media (max-width: 992px) {
+	.header {
+		.navbar {
+			background-color: #c10f0f;
+			.navbar-collapse {
+				margin-left: 15px;
+			}
+		}
+		.subhead {
+			.topbtns {
+				width: 100%;
+			}
+		}
+	}
+}

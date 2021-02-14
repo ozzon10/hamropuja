@@ -1,0 +1,19 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.membership{
+.content{
+    .breadcrumb{
+        margin-top: 40px;
+        margin-bottom: 0px;
+    }
+    .title{
+        font-size: 32px;
+        hr{
+            margin-top: 12px;
+            margin-bottom: 0px;
+        }
+    }
+    
+}
+}

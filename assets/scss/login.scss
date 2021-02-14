@@ -1,0 +1,22 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.login{
+.content{
+    form{
+        text-align: center;
+
+        background-color: white;
+        margin-top: 61px;
+        .form-body{
+            .form-title{
+                font-size: 32px;
+                margin-bottom: 70px;
+            }
+            padding-top: 100px;
+            padding-bottom: 66px;
+        }
+        
+    }
+}
+}

@@ -1,0 +1,29 @@
+footer {
+	margin-top: 90px;
+	color: white;
+	background: #F96767;
+	padding: 60px 30px;
+	.menu {
+		ul {
+			li {
+				margin-bottom: 5px;
+				a {
+					color: #FFFFFF;
+					text-decoration: none;
+					&:hover {
+						opacity: 0.6;
+					}
+				}
+			}
+		}
+	}
+	.newsletter {
+		input {
+			border: none;
+		}
+		.btn-primary {
+			background-color: #ff8787;
+			border: none;
+		}
+	}
+}

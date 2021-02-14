@@ -1,0 +1,22 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.donation{
+.content{
+    form{
+        text-align: center;
+
+        background-color: white;
+        margin-top: 61px;
+        .form-body{
+            .form-title{
+                font-size: 32px;
+            }
+            
+            padding-top: 50px;
+            padding-bottom: 66px;
+        }
+        
+    }
+}
+}

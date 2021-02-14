@@ -1,0 +1,30 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+.yagyadetail{
+.content .title {
+	margin-top: 40px;
+  }
+  .content .title h1 {
+	font-size: 26px;
+  }
+.content{
+    .detail{
+        .title{
+            font-size: 26px;
+        }
+    }
+    .image{
+        overflow: hidden;
+    }
+    .booking{
+        font-size: 26px;
+        margin-top:74px;
+        margin-bottom: 20px;
+    }
+    input{
+        margin-bottom: 20px;
+    }
+    
+}
+}
