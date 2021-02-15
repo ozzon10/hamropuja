@@ -46,6 +46,13 @@
                             <label for="lastname" class="form-label">Last Name</label>
                             <input type="text" class="form-control" id="lastname">
                         </div>
+                        <div class="col-md-4 col-sm-6">
+                            <label for="horoscope" class="form-label">Religion</label>
+                            <select id="horoscope" class="form-select">
+                                <option selected>Choose Religion</option>
+                                <option>...</option>
+                            </select>
+                        </div>
                     </div>
                     <div class="row">
                         <div class="col-md-4 col-sm-6">
@@ -99,6 +106,7 @@
                         </strong></p>
                     <div class="row">
                         <div class="col-md-12">
+                            <p><a href="terms.php">Read Terms and Condition</a></p>
                             <input class="form-check-input" type="checkbox" id="gridCheck">
                             <label class="form-check-label" for="gridCheck">
                                 I have read, understood and accept the Membership Policy.

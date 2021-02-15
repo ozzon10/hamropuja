@@ -42,6 +42,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -396,6 +400,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -773,6 +781,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -1161,6 +1173,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -1613,6 +1629,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -1930,6 +1950,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -2238,6 +2262,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -2621,6 +2649,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -2936,6 +2968,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -3290,6 +3326,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -3662,6 +3702,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -3973,6 +4017,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -4278,6 +4326,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -4587,6 +4639,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -4899,6 +4955,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -5207,6 +5267,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -5563,6 +5627,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -5817,6 +5885,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -6141,6 +6213,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -6412,6 +6488,9 @@ footer .newsletter .btn-primary {
 .memberform .content form select {
   border-radius: 0px;
 }
+.memberform .content form button:disabled {
+  background-color: #F14F4F;
+}
 
 .bg-red {
   background: #C10F0F 0% 0% no-repeat padding-box;
@@ -6455,6 +6534,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -6824,6 +6907,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -7157,6 +7244,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -7472,6 +7563,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {
@@ -7823,6 +7918,10 @@ a {
   background-color: #c10f0f;
 }
 
+.dropdown-item {
+  font-size: 14px;
+}
+
 input {
   font-size: 14px;
 }
@@ -8137,6 +8236,10 @@ a {
 .btn-primary:hover {
   box-shadow: 0px 0px 7px 3px rgba(0, 0, 0, 0.13) inset;
   background-color: #c10f0f;
+}
+
+.dropdown-item {
+  font-size: 14px;
 }
 
 input {

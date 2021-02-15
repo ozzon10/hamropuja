@@ -23,6 +23,9 @@
         select{
             border-radius: 0px;
         }
+        button:disabled{
+            background-color: #F14F4F;
+        }
     }
 }
 }

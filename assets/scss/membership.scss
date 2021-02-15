@@ -2,33 +2,33 @@
 @use 'header';
 @use 'footer';
 .membership{
-.content{
-    .breadcrumb{
-        margin-top: 40px;
-        margin-bottom: 0px;
-    }
-    .title{
-        font-size: 32px;
-        hr{
-            margin-top: 12px;
+    .content{
+        .breadcrumb{
+            margin-top: 40px;
             margin-bottom: 0px;
         }
-    }
-    .card{
-        img{
-            width: 180px;
-            height: 175px;
-            justify-self: center;
+        .title{
+            font-size: 32px;
+            hr{
+                margin-top: 12px;
+                margin-bottom: 0px;
+            }
         }
-        .card-title{
-            font-size: 22px;
-        }
-        .price{
-            font-size: 25px;
-            .year{
-                font-size: 20px;
+        .card{
+            img{
+                width: 180px;
+                height: 175px;
+                justify-self: center;
+            }
+            .card-title{
+                font-size: 22px;
+            }
+            .price{
+                font-size: 25px;
+                .year{
+                    font-size: 20px;
+                }
             }
         }
     }
-}
 }
