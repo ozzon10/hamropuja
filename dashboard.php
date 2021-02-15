@@ -4,11 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="assets/css/all.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/all.css" />
     <title>dashboard</title>
 </head>
 
@@ -21,29 +20,20 @@
                     <div class="col-md-3 mb-3">
                         <div class="panel text-center bg-white shadow-sm">
                             <div class="mb-4">
-                                <img class="rounded-circle pic mt-3"
-                                    src="assets/img/Image-37.png" alt="">
+                                <img class="rounded-circle pic mt-3" src="assets/img/Image-37.png" alt="">
                             </div>
                             <div class="list-group rounded-0" id="list-tab" role="tablist">
-                                <a class="list-group-item list-group-item-action active" id="list-home-list"
-                                    data-bs-toggle="list" href="#list-home" role="tab" aria-controls="home">Profile</a>
-                                <a class="list-group-item list-group-item-action" id="list-temple-list"
-                                    data-bs-toggle="list" href="#list-temple" role="tab"
-                                    aria-controls="temple">Temple/Monastries</a>
-                                <a class="list-group-item list-group-item-action" id="list-astrologer-list"
-                                    data-bs-toggle="list" href="#list-astrologer" role="tab"
-                                    aria-controls="astrologer">Astrologer/Monk</a>
-                                <a class="list-group-item list-group-item-action" id="list-puja-list"
-                                    data-bs-toggle="list" href="#list-puja" role="tab" aria-controls="puja">Puja</a>
-                                <a class="list-group-item list-group-item-action" id="list-shop-list"
-                                    data-bs-toggle="list" href="#list-shop" role="tab" aria-controls="puja">Shop</a>
+                                <a class="list-group-item list-group-item-action active" id="list-home-list" data-bs-toggle="list" href="#list-home" role="tab" aria-controls="home">Profile</a>
+                                <a class="list-group-item list-group-item-action" id="list-temple-list" data-bs-toggle="list" href="#list-temple" role="tab" aria-controls="temple">Temple/Monastries</a>
+                                <a class="list-group-item list-group-item-action" id="list-astrologer-list" data-bs-toggle="list" href="#list-astrologer" role="tab" aria-controls="astrologer">Astrologer/Monk</a>
+                                <a class="list-group-item list-group-item-action" id="list-puja-list" data-bs-toggle="list" href="#list-puja" role="tab" aria-controls="puja">Puja</a>
+                                <a class="list-group-item list-group-item-action" id="list-shop-list" data-bs-toggle="list" href="#list-shop" role="tab" aria-controls="shop">Shop</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-9">
                         <div class="tab-content bg-white shadow-sm" id="nav-tabContent">
-                            <div class="tab-pane fade show active p-3" id="list-home" role="tabpanel"
-                                aria-labelledby="list-home-list">
+                            <div class="tab-pane fade show active p-3" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
                                 <div class="profile">
                                     <div class="row">
                                         <h4><strong>My Profile</strong></h4>
@@ -114,10 +104,8 @@
                                     </form>
                                 </div>
                             </div>
-                            <div class="tab-pane fade" id="list-temple" role="tabpanel"
-                                aria-labelledby="list-temple-list">Temple</div>
-                            <div class="tab-pane fade p-3" id="list-astrologer" role="tabpanel"
-                                aria-labelledby="list-astrologer-list">
+                            <div class="tab-pane fade p-3" id="list-temple" role="tabpanel" aria-labelledby="list-temple-list">Temple</div>
+                            <div class="tab-pane fade p-3" id="list-astrologer" role="tabpanel" aria-labelledby="list-astrologer-list">
                                 <div class="astrologer">
                                     <div class="row">
                                         <div class="col-6">
@@ -126,14 +114,14 @@
                                         <div class="col-6">
                                             <div class="dropdown">
                                                 <a class="btn btn-light btn-sm dropdown-toggle float-end" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                                  2020
+                                                    2020
                                                 </a>
-                                              
+
                                                 <ul class="dropdown-menu" style="min-width: 50px;" aria-labelledby="dropdownMenuLink">
-                                                  <li><a class="dropdown-item" href="#">2020</a></li>
-                                                  <li><a class="dropdown-item" href="#">2021</a></li>
+                                                    <li><a class="dropdown-item" href="#">2020</a></li>
+                                                    <li><a class="dropdown-item" href="#">2021</a></li>
                                                 </ul>
-                                              </div>
+                                            </div>
                                         </div>
                                         <hr>
                                     </div>
@@ -150,10 +138,49 @@
                                         <div class="col-sm-4">
                                             <div class="float-end">
                                                 <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" src="assets/img/autorenew-24px.svg">
-                                                <a href=""><img src="assets/img/keyboard_arrow_right-24px.svg"></a>
+                                                <img id="txnstatus" class="pending" src="assets/img/done-24px.svg" title="pending">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg" data-bs-toggle="modal" data-bs-target="#exampleModal">
                                             </div>
                                         </div>
+                                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-lg">
+                                      <div class="modal-content rounded-0">
+                                        
+                                        <div class="modal-body">
+                                            <button type="button" class="btn-close float-end" data-bs-dismiss="modal" aria-label="Close"></button>
+                                            <br>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <h4><strong>Payment Summary</strong></h4>        
+                                                </div>
+                                                <hr>
+                                                <div class="col-12">
+                                                    <h6 class="float-start">Astro. Prem Raj Ghimire</h6>
+                                                    <span class="float-end">Date: 20 December 2020</span>            
+                                                </div>
+                                            </div>
+                                            <div class="row m-5">
+                                                <div class="col-6">Astrologer Consulting</div>
+                                                <div class="col-6"><span class="float-end">USD 500.0</span></div>
+                                                <div class="col-6">Service Tax</div>
+                                                <div class="col-6"><span class="float-end">USD 50.0</span></div>
+                                                <hr>
+                                                <div class="col-6"><strong>Total</strong></div>
+                                                <div class="col-6"><span class="float-end"><strong>USD 550.0</strong></span></div>
+                                                <div class="col-12 mt-4">
+                                                    <strong>Payment Method: </strong><span id="paymentmethod">Credit Card</span>
+                                                </div>
+                                                <div class="col-12">
+                                                    <strong>Card Number: </strong><span id="paymentmethod">1234 5678 9012</span>
+                                                </div>
+                                                <div class="col-12">
+                                                    <strong>Transcation ID: </strong><span id="txnid">0012</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </div>
                                     </div>
                                     <div class="row align-items-center mb-3">
                                         <div class="col-3 col-sm-1 text-center">
@@ -168,15 +195,15 @@
                                         <div class="col-sm-4">
                                             <div class="float-end">
                                                 <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" src="assets/img/done-24px.svg">
-                                                <a href=""><img src="assets/img/keyboard_arrow_right-24px.svg"></a>
+                                                <img id="txnstatus" class="success" src="assets/img/done-24px.svg" title="done">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="tab-pane fade p-3" id="list-puja" role="tabpanel" aria-labelledby="list-puja-list">
-                                <div class="astrologer">
+                                <div class="puja">
                                     <div class="row">
                                         <div class="col-6">
                                             <h4><strong>Puja History</strong></h4>
@@ -184,14 +211,14 @@
                                         <div class="col-6">
                                             <div class="dropdown">
                                                 <a class="btn btn-light btn-sm dropdown-toggle float-end" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-                                                  2020
+                                                    2020
                                                 </a>
-                                              
+
                                                 <ul class="dropdown-menu" style="min-width: 50px;" aria-labelledby="dropdownMenuLink">
-                                                  <li><a class="dropdown-item" href="#">2020</a></li>
-                                                  <li><a class="dropdown-item" href="#">2021</a></li>
+                                                    <li><a class="dropdown-item" href="#">2020</a></li>
+                                                    <li><a class="dropdown-item" href="#">2021</a></li>
                                                 </ul>
-                                              </div>
+                                            </div>
                                         </div>
                                         <hr>
                                     </div>
@@ -208,8 +235,8 @@
                                         <div class="col-sm-4">
                                             <div class="float-end">
                                                 <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" src="assets/img/autorenew-24px.svg">
-                                                <a href=""><img src="assets/img/keyboard_arrow_right-24px.svg"></a>
+                                                <img id="txnstatus" class="pending" src="assets/img/autorenew-24px.svg" title="pending">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
                                             </div>
                                         </div>
                                     </div>
@@ -226,15 +253,89 @@
                                         <div class="col-sm-4">
                                             <div class="float-end">
                                                 <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" src="assets/img/done-24px.svg">
-                                                <a href=""><img src="assets/img/keyboard_arrow_right-24px.svg"></a>
+                                                <img id="txnstatus" class="success" src="assets/img/done-24px.svg" title="done">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
                                             </div>
                                         </div>
                                     </div>
-                                </div>    
+                                    <div class="row align-items-center mb-3">
+                                        <div class="col-3 col-sm-1 text-center">
+                                            <div class="date border p-1">
+                                                <h5 class="m-0">20</h5>
+                                                <span>Dec</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-9 col-sm-7">
+                                            <span class="float-start">Hanuman Puja</span>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="float-end">
+                                                <span>Txnid:</span><span id="txnid"> 0012</span>
+                                                <img id="txnstatus" class="cancel" src="assets/img/close-24px.svg" title="cancelled">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="tab-pane fade" id="list-shop" role="tabpanel" aria-labelledby="list-shop-list">
-                                Shop</div>
+                            <div class="tab-pane fade p-3" id="list-shop" role="tabpanel" aria-labelledby="list-shop-list">
+                                <div class="shop">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <h4><strong>Shop</strong></h4>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="dropdown">
+                                                <a class="btn btn-light btn-sm dropdown-toggle float-end" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    2020
+                                                </a>
+
+                                                <ul class="dropdown-menu" style="min-width: 50px;" aria-labelledby="dropdownMenuLink">
+                                                    <li><a class="dropdown-item" href="#">2020</a></li>
+                                                    <li><a class="dropdown-item" href="#">2021</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <hr>
+                                    </div>
+                                    <div class="row align-items-center mb-3">
+                                        <div class="col-3 col-sm-1 text-center">
+                                            <div class="date border p-1">
+                                                <h5 class="m-0">20</h5>
+                                                <span>Dec</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-9 col-sm-7">
+                                            <span class="float-start">White Sapphire</span>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="float-end">
+                                                <span>Txnid:</span><span id="txnid"> 0012</span>
+                                                <img id="txnstatus" class="pending" src="assets/img/autorenew-24px.svg" title="pending">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row align-items-center mb-3">
+                                        <div class="col-3 col-sm-1 text-center">
+                                            <div class="date border p-1">
+                                                <h5 class="m-0">20</h5>
+                                                <span>Dec</span>
+                                            </div>
+                                        </div>
+                                        <div class="col-9 col-sm-7">
+                                            <span class="float-start">One Mukhi Rudraksha</span>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="float-end">
+                                                <span>Txnid:</span><span id="txnid"> 0012</span>
+                                                <img id="txnstatus" class="success" src="assets/img/done-24px.svg" title="done">
+                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -242,18 +343,16 @@
         </div>
         <?php include 'inc/footer.php'; ?>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
-        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
-        crossorigin="anonymous"></script>
-        <script>
-            jQuery(function(){
-                $('.feedback').click(function(){
-                    $(this).find('.content').toggleClass('open');
-                })
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js" integrity="sha384-KsvD1yqQ1/1+IA7gi3P0tyJcT3vR+NdBTt13hSJ2lnve8agRGXTTyNaBYmCR/Nwi" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script>
+        jQuery(function() {
+            $('.feedback').click(function() {
+                $(this).find('.content').toggleClass('open');
             })
-        </script>
+        })
+    </script>
 </body>
 
 </html>

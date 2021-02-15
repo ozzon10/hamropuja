@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/all.css" />
     <title>register</title>
 </head>
+
 <body>
     <div class="register">
-    <?php include 'inc/header.php'; ?>
+        <?php include 'inc/header.php'; ?>
         <div class="content">
             <div class="container-xxl">
                 <div class="row">
@@ -19,51 +21,56 @@
                         <p style="font-size: 20px; margin-top: 130px;"><strong>Following are the features you get access to after login.</strong></p>
                         <p>Easy Discussion with Astrologers and Lamas.</p>
 
-                        <p>Discount of easy pass on occasion of any places.</p>   
-                            
+                        <p>Discount of easy pass on occasion of any places.</p>
+
                         <p>10% discount of any karma puja long life</p>
-                            
+
                         <p>15% discount on items you buy from the shop</p>
                         <p style="font-size: 20px; margin-top: 80px;"><strong>Book now and relief your tension whole life time.</strong></p>
                     </div>
                     <div class="col-md-8 col-lg-7 offset-lg-1">
                         <form class="shadow-sm">
                             <div class="form-body">
-                                <p class="form-title" ><strong>Create your Account for free</strong></p>
+                                <p class="form-title"><strong>Create your Account for free</strong></p>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <input type="text" class="form-control rounded-0" id="firstname" placeholder="First Name">
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <input type="text" class="form-control rounded-0" id="lastname" placeholder="Last Name">
-                                    </div>                                    
+                                    </div>
+                                </div>
+                                <div class="row justify-content-center mb-4">
+                                    <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
+                                        <input type="text" class="form-control rounded-0" onfocus="(this.type='date')" onblur="(this.type='text')" id="dob" placeholder="Date of Birth">
+                                    </div>
                                 </div>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <input type="text" class="form-control rounded-0" id="email" placeholder="Email Address">
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <input type="text" class="form-control rounded-0" id="phone" placeholder="Phone">
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <input type="password" class="form-control rounded-0" id="password" placeholder="Password">
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <input type="password" class="form-control rounded-0" id="password" placeholder="Confirm Password">
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-xl-6 col-lg-7 col-sm-8  col-10">
                                         <button type="submit" class="btn btn-primary" style="width: 100%;"><strong>Create Account</strong></button>
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <p>Already a member ? <strong>Login</strong></p>
                             </div>
@@ -187,14 +194,15 @@
             </div>
         </div> -->
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     <script>
-        jQuery(function(){
-            $('.feedback').click(function(){
+        jQuery(function() {
+            $('.feedback').click(function() {
                 $(this).find('.content').toggleClass('open');
             })
         })
     </script>
 </body>
+
 </html>

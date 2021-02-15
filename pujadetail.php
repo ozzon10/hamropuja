@@ -110,7 +110,7 @@
                             <div class="col-3 col-sm-2">
                                 <div class="imgcover rounded-circle"
                                     style="width: 72px;height:72px;background-color: grey; overflow:hidden;">
-                                    <img src="assets/img/Image-37.png" alt="">
+                                    <img src="assets/img/Image-37.png" style="width:100%; height:100%;" alt="">
                                 </div>
                             </div>
                             <div class="col-9 col-sm-10">
@@ -127,7 +127,7 @@
                             <div class="col-3 col-sm-2">
                                 <div class="imgcover rounded-circle"
                                     style="width: 72px;height:72px;background-color: grey; overflow:hidden;">
-                                    <img src="assets/img/Image-37.png" alt="">
+                                    <img src="assets/img/Image-37.png" style="width:100%; height:100%;" alt="">
                                 </div>
                             </div>
                             <div class="col-9 col-sm-10">

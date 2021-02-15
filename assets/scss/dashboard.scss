@@ -6,13 +6,18 @@
     .panel{
         .pic{
             height: 124px;
-            width: 124px;
+            width: 124pxz;
         }
         a{
             text-align: left;
+            border: none;
         }
         a.active{
             font-weight: bold;
+            background-color:#F14F4F;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border: none;
         }
     }
     .date{

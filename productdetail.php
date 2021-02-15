@@ -41,8 +41,8 @@
                             <div class="card">
                                 <div class="row g-0">
                                     <div class="col-3">
-                                        <div class="image" style=" background-color: grey; width: 100%; height: 72px;">
-                                            <img src="..." alt="...">
+                                        <div class="image" style=" background-color: grey;">
+                                            <img src=".." alt="...">
                                         </div>
                                     </div>
                                     <div class="col-9">
@@ -56,8 +56,8 @@
                             <div class="card">
                                 <div class="row g-0">
                                     <div class="col-3">
-                                        <div class="image" style=" background-color: grey; width: 100%; height: 72px;">
-                                            <img src="..." alt="...">
+                                        <div class="image" style=" background-color: grey;">
+                                            <img src=".." alt="...">
                                         </div>
                                     </div>
                                     <div class="col-9">
@@ -71,8 +71,8 @@
                             <div class="card">
                                 <div class="row g-0">
                                     <div class="col-3">
-                                        <div class="image" style=" background-color: grey; width: 100%; height: 72px;">
-                                            <img src="..." alt="...">
+                                        <div class="image" style=" background-color: grey;">
+                                            <img src=".." alt="...">
                                         </div>
                                     </div>
                                     <div class="col-9">

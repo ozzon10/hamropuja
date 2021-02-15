@@ -52,8 +52,8 @@
                                 dolor sit amet, consectetur, adipisci velit, seprid quia non numquam eius modi tempora
                                 incidunt ut labore et dolore magnam aliqueam quaerat voluptatem.</p>
                             <div class="review mt-5">
-                                <span><img src="assets/img/favorite-24px.svg"> 609</span>
-                                <span class="ms-4"><img src="assets/img/mode_comment-24px.svg"> 2</span>
+                                <span><img src="assets/img/favorite_border-24px.svg" class="like btn"><span class="likecount">609</span></span>
+                                <span class="ms-4"><img src="assets/img/mode_comment-24px.svg" class="comment"> 2</span>
                                 <span class="ms-4"><img src="assets/img/share-24px.svg"></span>
                             </div>
                             <div class="comment mt-5">
@@ -64,7 +64,7 @@
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-6 mt-3">
-                                    <a href="#" class="btn btn-primary" style="width: 100%;">Submit</a>
+                                    <a href="#" class="btn btn-primary">Submit</a>
                                 </div>
                             </div>
                         </div>
@@ -95,7 +95,7 @@
                                     bulk of the card's content.</p>
                                 <div class="row review">
                                     <div class="col">
-                                        <span class="likes"><img src="assets/img/favorite-24px.svg"> 609</span>
+                                        <span><img src="assets/img/favorite-24px.svg">609</span>
                                         <span class="comments"><img src="assets/img/mode_comment-24px.svg"> 120</span>
                                     </div>
                                 </div>
@@ -171,6 +171,24 @@
                 $(this).find('.content').toggleClass('open');
             })
         })
+        $(document).ready(function(){
+            $('.like').click(function(){
+                if ($(this).hasClass("liked")){
+                    $(this).removeClass('liked');
+                    $(this).attr("src","assets/img/favorite_border-24px.svg");
+                    $('.likecount').html(function(i,val){
+                    return val*1-1
+                });
+                }
+                else{
+                    $(this).addClass('liked');
+                    $(this).attr("src","assets/img/favorite-24px.svg");
+                    $('.likecount').html(function(i,val){
+                    return val*1+1
+                });
+                }                
+            });
+        });
     </script>
 </body>
 

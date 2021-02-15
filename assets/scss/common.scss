@@ -5,16 +5,13 @@ $red-color  :#C10F0F;
 * {
 	transition: all ease 0.2s;
 }
-.form-select {
-    font-size: 14px;
-}
 body{
     background:#F9F1D8 0% 0% no-repeat padding-box;
     font-size: 14px;
     font-family: "Open Sans", sans-serif;
 	color: #413D3D;
 }
-input, textarea, .form-control{
+input, textarea, .form-control,.form-select {
 	font-size: 14px;
   }
   p {
@@ -78,8 +75,8 @@ textarea {
 }
 .feedback {
 	position: fixed;
-	left: 0;
 	z-index: 3;
+	left: 0;
 	width: 100%;
 	bottom: 0;
 	.content {

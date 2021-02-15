@@ -13,7 +13,7 @@ body {
   color: #413D3D;
 }
 
-input, textarea, .form-control, select {
+input, textarea, .form-control, .form-select {
   font-size: 14px;
 }
 
@@ -253,16 +253,14 @@ footer .newsletter .btn-primary {
   border: none;
 }
 
-.dashboard .content .panel .pic {
-  height: 124px;
-  width: 124px;
+.content .title {
+  margin-top: 40px;
 }
-.dashboard .content .panel a {
-  text-align: left;
+.content .title hr {
+  margin-top: 12px;
+  margin-bottom: 0px;
 }
-.dashboard .content .panel a.active {
-  font-weight: bold;
-}
-.dashboard .content .date {
-  width: fit-content;
+
+.content .title h1 {
+  font-size: 26px;
 }

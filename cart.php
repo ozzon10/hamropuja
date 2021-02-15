@@ -110,7 +110,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-3 col-sm-6 col-md-5">
-                                                            <p class="float-end">USD <span class=" itemprice">400.0</span></p>
+                                                            <p class="float-end">USD <span class="itemprice">400.0</span></p>
                                                         </div>
                                                     </div>
                                                 </div>
