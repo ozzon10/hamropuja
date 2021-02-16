@@ -81,7 +81,7 @@
                                 <img src="assets/img/Screenshot (33).png" class="img-fluid mb-3 "><br>
                             </div>
                             <div class="col-12">
-                                <button type="submit" class="btn btn-primary shadow-sm"
+                                <button type="submit" class="btn btn-primary"
                                     style="width: 100%;"><strong>Submit</strong></button>
                             </div>
                         </form>

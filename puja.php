@@ -55,7 +55,7 @@
                                 <div class="col-sm-8 col-8">
                                     <div class="card-body ">
                                         <small>Mandir Puja</small>
-                                        <h5 class="card-title">Shiva Puja</h5>
+                                        <a href="pujadetail.php"><h5 class="card-title">Shiva Puja</h5></a>
                                         <p class="card-text d-block d-sm-none d-md-none d-lg-none d-xl-block">Pooja of
                                             the Shiva Linga is performed with the prescribed </p>
                                     </div>
@@ -72,7 +72,7 @@
                                 <div class="col-sm-8 col-8">
                                     <div class="card-body ">
                                         <small>Pitri</small>
-                                        <h5 class="card-title">Masik (Shivaratri)</h5>
+                                        <a href=""><h5 class="card-title">Masik (Shivaratri)</h5></a>
                                         <p class="card-text d-block d-sm-none d-md-none d-lg-none d-xl-block">Pooja of
                                             the Shiva Linga is performed with the prescribed </p>
                                     </div>
@@ -89,7 +89,7 @@
                                 <div class="col-sm-8 col-8">
                                     <div class="card-body ">
                                         <small>Vaidik</small>
-                                        <h5 class="card-title">Janmautsav (Birthday...</h5>
+                                        <a href=""><h5 class="card-title">Janmautsav (Birthday...</h5></a>
                                         <p class="card-text d-block d-sm-none d-md-none d-lg-none d-xl-block">This puja
                                             done on your special day Birthday.</p>
                                     </div>
@@ -106,7 +106,7 @@
                                 <div class="col-sm-8 col-8">
                                     <div class="card-body ">
                                         <small>Vaidik</small>
-                                        <h5 class="card-title">Bibaha (Marriage)</h5>
+                                        <a href=""><h5 class="card-title">Bibaha (Marriage)</h5></a>
                                         <p class="card-text d-block d-sm-none d-md-none d-lg-none d-xl-block">A Hindu
                                             wedding, known as Vivaha in Sanskrit is the traditional</p>
                                     </div>
@@ -123,7 +123,7 @@
                                 <div class="col-sm-8 col-8">
                                     <div class="card-body ">
                                         <small>Vaidik</small>
-                                        <h5 class="card-title">Nwaran (Vidhishankar)</h5>
+                                        <a href=""><h5 class="card-title">Nwaran (Vidhishankar)</h5></a>
                                         <p class="card-text d-block d-sm-none d-md-none d-lg-none d-xl-block">Nwaran
                                             (sometimes Nuwaran) is a child naming ceremony.</p>
                                     </div>

@@ -36,7 +36,7 @@
                             </div>
                             <div class="col-sm-8 col-8">
                                 <div class="card-body ">
-                                <h5 class="card-title"><a href="">Yagya for Surya</a></h5>
+                                <h5 class="card-title"><a href="yagyadetail.php">Yagya for Surya</a></h5>
                                 <p class="card-text d-block d-sm-none d-md-none d-lg-block">Internally Surya represents our tendency, ability and talent to act as a leader or authority. </p>
                                 </div>
                             </div>

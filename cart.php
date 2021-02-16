@@ -30,7 +30,125 @@
                 <div class="mt-5" style="background-color: white;">
                     <div class="container-xxl">
                         <div class="row mb-3">
-                            <div class="col-md-5 mt-4 mb-4">
+                        <div class="col-md-7 col-lg-6 mt-4 mb-4 ">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h4><strong>Cart Item</strong></h4>
+                                    </div>
+                                </div>
+                                <div class="row items mt-4">
+                                    <div class="card mb-4">
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <div class="image" style=" background-color: grey; width: 100%;">
+                                                    <img src=".." class="img-fluid" alt="...">
+                                                </div>
+                                            </div>
+                                            <div class="col-9">
+                                                <div class="card-body">
+                                                    <p class="card-title"><strong>White Sapphire Stone</strong><span class="float-end"><img src="assets/img/delete-24px.svg"></span></p>
+                                                    <div class="row">
+                                                        <div class="col-3 col-sm-2">Qty:</div>
+                                                        <div class="col-6 col-sm-4 col-md-5 col-xl-4">
+                                                            <div class="input-group">
+
+                                                                <button class="btn minus-btn btn-outline-secondary btn-number" type="button" data-type="minus" data-field=""><span>&darr;</span></button>
+                                                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
+                                                                <button class="btn plus-btn btn-outline-secondary btn-number" type="button" data-type="plus" data-field=""><span>&uarr;</span></button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-3 col-sm-6 col-md-5">
+                                                            <p class="float-end">USD <span class="itemprice">400.0</span></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card mb-4">
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <div class="image" style=" background-color: grey; width: 100%;">
+                                                    <img src="..." class="img-fluid" alt="...">
+                                                </div>
+                                            </div>
+                                            <div class="col-9">
+                                                <div class="card-body">
+                                                    <p class="card-title"><strong>Two Mukhi Rudraksha</strong><span class="float-end"><img src="assets/img/delete-24px.svg"></span</p>
+                                                    <div class="row">
+                                                        <div class="col-3 col-sm-2">Qty:</div>
+                                                        <div class="col-6 col-sm-4 col-md-5 col-xl-4">
+                                                            <div class="input-group">
+
+                                                                <button class="btn minus-btn btn-outline-secondary btn-number" type="button" data-type="minus" data-field=""><span>&darr;</span></button>
+                                                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
+                                                                <button class="btn plus-btn btn-outline-secondary btn-number" type="button" data-type="plus" data-field=""><span>&uarr;</span></button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-3 col-sm-6 col-md-5">
+                                                            <p class="float-end">USD 400.0</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card mb-4">
+                                        <div class="row">
+                                            <div class="col-3">
+                                                <div class="image" style=" width: 100%;">
+                                                    <img src="assets/img/Image-45.png" class="img-fluid" alt="...">
+                                                </div>
+                                            </div>
+                                            <div class="col-9">
+                                                <div class="card-body">
+                                                    <p class="card-title"><strong>One Mukhi Rudraksha</strong><span class="float-end"><img src="assets/img/delete-24px.svg"></span</p>
+                                                    <div class="row">
+                                                        <div class="col-3 col-sm-2">Qty:</div>
+                                                        <div class="col-6 col-sm-4 col-md-5 col-xl-4">
+                                                            <div class="input-group">
+
+                                                                <button class="btn minus-btn btn-outline-secondary btn-number" type="button" data-type="minus" data-field=""><span>&darr;</span></button>
+                                                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
+                                                                <button class="btn plus-btn btn-outline-secondary btn-number" type="button" data-type="plus" data-field=""><span>&uarr;</span></button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-3 col-sm-6 col-md-5">
+                                                            <p class="float-end">USD 400.0</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="row mb-2">
+                                    <div class="offset-3 col-3">
+                                        <span><strong>VAT:</strong></span>
+                                    </div>
+                                    <div class="col-5">
+                                        <span class="float-end"><strong></strong></span>
+                                    </div>
+                                </div>
+                                <div class="row mb-2">
+                                    <div class="offset-3 col-3">
+                                        <span><strong>Delivery Charge:</strong></span>
+                                    </div>
+                                    <div class="col-5">
+                                        <span class="float-end"><strong>USD 20.0</strong></span>
+                                    </div>
+                                </div>
+                                <div class="row mb-2">
+                                    <div class="offset-3 col-3">
+                                        <span><strong>Total:</strong></span>
+                                    </div>
+                                    <div class="col-5">
+                                        <span class="float-end"><strong>USD 1250.0</strong></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-5 offset-lg-1 mt-4 mb-4">
                                 <div class="row justify-content-center mb-4">
                                     <div class="col-sm-10">
                                         <h4><strong>Check Out</strong></h4>
@@ -82,108 +200,7 @@
                                 </div>
 
                             </div>
-                            <div class="col-md-7 col-lg-6 offset-lg-1 mt-4 mb-4 order-first order-md-last">
-                                <div class="row">
-                                    <div class="col-12">
-                                        <h4><strong>Cart Item</strong></h4>
-                                    </div>
-                                </div>
-                                <div class="row items mt-4">
-                                    <div class="card mb-4">
-                                        <div class="row">
-                                            <div class="col-3">
-                                                <div class="image" style=" background-color: grey; width: 100%;">
-                                                    <img src=".." class="img-fluid" alt="...">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-                                                <div class="card-body">
-                                                    <p class="card-title"><strong>White Sapphire Stone</strong></p>
-                                                    <div class="row">
-                                                        <div class="col-3 col-sm-2">Qty:</div>
-                                                        <div class="col-6 col-sm-4 col-md-5 col-xl-4">
-                                                            <div class="input-group">
-
-                                                                <button class="btn minus-btn btn-outline-secondary btn-number" type="button" data-type="minus" data-field=""><span>&darr;</span></button>
-                                                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
-                                                                <button class="btn plus-btn btn-outline-secondary btn-number" type="button" data-type="plus" data-field=""><span>&uarr;</span></button>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-3 col-sm-6 col-md-5">
-                                                            <p class="float-end">USD <span class="itemprice">400.0</span></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="card mb-4">
-                                        <div class="row">
-                                            <div class="col-3">
-                                                <div class="image" style=" background-color: grey; width: 100%;">
-                                                    <img src="..." class="img-fluid" alt="...">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-                                                <div class="card-body">
-                                                    <p class="card-title"><strong>Two Mukhi Rudraksha</strong></p>
-                                                    <div class="row">
-                                                        <div class="col-3 col-sm-2">Qty:</div>
-                                                        <div class="col-6 col-sm-4 col-md-5 col-xl-4">
-                                                            <div class="input-group">
-
-                                                                <button class="btn minus-btn btn-outline-secondary btn-number" type="button" data-type="minus" data-field=""><span>&darr;</span></button>
-                                                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
-                                                                <button class="btn plus-btn btn-outline-secondary btn-number" type="button" data-type="plus" data-field=""><span>&uarr;</span></button>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-3 col-sm-6 col-md-5">
-                                                            <p class="float-end">USD 400.0</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="card mb-4">
-                                        <div class="row">
-                                            <div class="col-3">
-                                                <div class="image" style=" width: 100%;">
-                                                    <img src="assets/img/Image-45.png" class="img-fluid" alt="...">
-                                                </div>
-                                            </div>
-                                            <div class="col-9">
-                                                <div class="card-body">
-                                                    <p class="card-title"><strong>One Mukhi Rudraksha</strong></p>
-                                                    <div class="row">
-                                                        <div class="col-3 col-sm-2">Qty:</div>
-                                                        <div class="col-6 col-sm-4 col-md-5 col-xl-4">
-                                                            <div class="input-group">
-
-                                                                <button class="btn minus-btn btn-outline-secondary btn-number" type="button" data-type="minus" data-field=""><span>&darr;</span></button>
-                                                                <input type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
-                                                                <button class="btn plus-btn btn-outline-secondary btn-number" type="button" data-type="plus" data-field=""><span>&uarr;</span></button>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-3 col-sm-6 col-md-5">
-                                                            <p class="float-end">USD 400.0</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <hr>
-                                <div class="row">
-                                    <div class="offset-3 col-3">
-                                        <span><strong>Total</strong></span>
-                                    </div>
-                                    <div class="col-5">
-                                        <span class="float-end"><strong></strong></span>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

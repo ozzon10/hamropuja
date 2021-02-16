@@ -84,13 +84,13 @@
                                 <hr class="dropdown-divider">
                             </li>
                             <li class="">
-                                <div class="float-end"><a href="#" class=" btn btn-sm btn-primary">Checkout</a></div>
+                                <div class="float-end"><a href="cart.php" class=" btn btn-sm btn-primary">Checkout</a></div>
 
                             </li>
                         </ul>
                     </div>
 
-                    <a href="" class="btn btn-sm btn-link"><img src="assets/img/person-black-18dp.svg" alt=""></a>
+                    <a href="dashboard.php" class="btn btn-sm btn-link"><img src="assets/img/person-black-18dp.svg" alt=""></a>
             </div>
             </form>
 
@@ -117,8 +117,8 @@
 
             </div>
             <div class="float-end">
-                <a href="#" class="btn btn-sm btn-primary d-lg-block d-none rounded-0 donate"><strong>Donate to Temple/Monastery</strong></a>
-                <a href="#" class="btn btn-sm btn-primary d-block d-lg-none rounded-0 donate"><img src="assets/img/hand-holding-usd-solid.svg"></a>
+                <a href="donation.php" class="btn btn-sm btn-primary d-lg-block d-none rounded-0 donate"><strong>Donate to Temple/Monastery</strong></a>
+                <a href="donation.php" class="btn btn-sm btn-primary d-block d-lg-none rounded-0 donate"><img src="assets/img/hand-holding-usd-solid.svg"></a>
             </div>
 
         </div>

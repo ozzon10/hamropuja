@@ -19,8 +19,12 @@
                 <div class="row mt-5">
                     <div class="col-md-3 mb-3">
                         <div class="panel text-center bg-white shadow-sm">
-                            <div class="mb-4">
+                            <div class="mb-2">
                                 <img class="rounded-circle pic mt-3" src="assets/img/Image-37.png" alt="">
+                            </div>
+                            <div class="mb-4">
+                                <h5><span><strong>Ram Ghimire</strong></span><br></h5>
+                                <span>U-2162021-1</span>
                             </div>
                             <div class="list-group rounded-0" id="list-tab" role="tablist">
                                 <a class="list-group-item list-group-item-action active" id="list-home-list" data-bs-toggle="list" href="#list-home" role="tab" aria-controls="home">Profile</a>
@@ -28,6 +32,7 @@
                                 <a class="list-group-item list-group-item-action" id="list-astrologer-list" data-bs-toggle="list" href="#list-astrologer" role="tab" aria-controls="astrologer">Astrologer/Monk</a>
                                 <a class="list-group-item list-group-item-action" id="list-puja-list" data-bs-toggle="list" href="#list-puja" role="tab" aria-controls="puja">Puja</a>
                                 <a class="list-group-item list-group-item-action" id="list-shop-list" data-bs-toggle="list" href="#list-shop" role="tab" aria-controls="shop">Shop</a>
+                                <a class="list-group-item list-group-item-action" id="list-security-list" data-bs-toggle="list" href="#list-security" role="tab" aria-controls="security">Security</a>
                             </div>
                         </div>
                     </div>
@@ -48,22 +53,23 @@
                                             <label for="lastname" class="form-label">Last Name</label>
                                             <input type="text" class="form-control" id="lastname">
                                         </div>
+
                                         <div class="col-md-5">
                                             <label for="email" class="form-label">Email</label>
                                             <input type="email" class="form-control" id="email">
                                         </div>
                                         <div class="col-md-5">
                                             <label for="phone" class="form-label">Phone</label>
-                                            <input type="number" class="form-control" id="phone">
+                                            <input type="text" class="form-control" id="phone">
                                         </div>
                                         <div class="col-md-5">
                                             <label for="dob" class="form-label">Date of Birth</label>
                                             <input type="date" class="form-control" id="dob">
                                         </div>
                                         <div class="col-md-5">
-                                            <label for="horoscope" class="form-label">Horoscope</label>
+                                            <label for="horoscope" class="form-label">Religion</label>
                                             <select id="horoscope" class="form-select">
-                                                <option selected>Choose...</option>
+                                                <option selected>Choose Religion</option>
                                                 <option>...</option>
                                             </select>
                                         </div>
@@ -75,36 +81,71 @@
                                             <label for="taddress" class="form-label">Temporary Address</label>
                                             <input type="text" class="form-control" id="taddress">
                                         </div>
-                                        <div class="col-md-5">
-                                            <label for="kundali" class="form-label">Kundali (optional)</label>
-                                            <input type="file" class="form-control" id="kundali">
-                                        </div>
-                                        <div class="col-md-5">
-                                            <label for="gotra" class="form-label">Gotra</label>
-                                            <input type="text" class="form-control" id="gotra">
-                                        </div>
-                                        <strong>Change Password</strong>
-                                        <div class="col-md-5">
-                                            <label for="oldpassword" class="form-label">Old Password</label>
-                                            <input type="text" class="form-control" id="oldpassword">
-                                        </div>
-                                        <div class="col-md-5 d-none d-md-block"></div>
-                                        <div class="col-md-5">
-                                            <label for="newpassword" class="form-label">New Password</label>
-                                            <input type="text" class="form-control" id="newpassword">
-                                        </div>
-                                        <div class="col-md-5 d-none d-md-block"></div>
-                                        <div class="col-md-5">
-                                            <label for="cpassword" class="form-label">Confirm Password</label>
-                                            <input type="text" class="form-control" id="cpassword">
-                                        </div>
+
                                         <div class="col-12">
-                                            <button type="submit" class="btn btn-primary">Save</button>
+                                            <button type="submit" class="btn btn-primary">Save Change</button>
                                         </div>
                                     </form>
                                 </div>
                             </div>
-                            <div class="tab-pane fade p-3" id="list-temple" role="tabpanel" aria-labelledby="list-temple-list">Temple</div>
+                            <div class="tab-pane fade p-3" id="list-temple" role="tabpanel" aria-labelledby="list-temple-list">
+                                <div class="temple">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <h4><strong>Temple/Monastries</strong></h4>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="dropdown">
+                                                <a class="btn btn-light btn-sm dropdown-toggle float-end" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                                    2020
+                                                </a>
+
+                                                <ul class="dropdown-menu" style="min-width: 50px;" aria-labelledby="dropdownMenuLink">
+                                                    <li><a class="dropdown-item" href="#">2020</a></li>
+                                                    <li><a class="dropdown-item" href="#">2021</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <hr>
+                                    </div>
+                                    <div class="item row align-items-center mb-4">
+                                        <div class="col-3 col-md-2 align-self-start">
+                                            <div class="imgcover" style="width:100%;">
+                                                <img src="assets/img/Image-44.png" class="img-fluid">
+                                            </div>
+                                        </div>
+                                        <div class="col-5 col-md-6 align-self-start">
+                                            <p><strong>Pashupatinath</strong></p>
+                                            <p>Id: U-2162021-1</p>
+                                            <p>Puja: Shiva Puja</p>
+                                        </div>
+                                        <div class="col-4 align-self-start">
+                                            <div class="float-end">
+                                                <p>Date: 20 Nov 2020</p>
+                                                <p>Time: 09:00 am</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item row align-items-center mb-4">
+                                        <div class="col-3 col-md-2 align-self-start">
+                                            <div class="imgcover" style="width:100%;">
+                                                <img src="assets/img/Image-44.png" class="img-fluid">
+                                            </div>
+                                        </div>
+                                        <div class="col-5 col-md-6 align-self-start">
+                                            <p><strong>Pashupatinath</strong></p>
+                                            <p>Id: U-2162021-1</p>
+                                            <p>Puja: Shiva Puja</p>
+                                        </div>
+                                        <div class="col-4 align-self-start">
+                                            <div class="float-end">
+                                                <p>Date: 20 Nov 2020</p>
+                                                <p>Time: 09:00 am</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="tab-pane fade p-3" id="list-astrologer" role="tabpanel" aria-labelledby="list-astrologer-list">
                                 <div class="astrologer">
                                     <div class="row">
@@ -143,44 +184,44 @@
                                             </div>
                                         </div>
                                         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-lg">
-                                      <div class="modal-content rounded-0">
-                                        
-                                        <div class="modal-body">
-                                            <button type="button" class="btn-close float-end" data-bs-dismiss="modal" aria-label="Close"></button>
-                                            <br>
-                                            <div class="row">
-                                                <div class="col-12">
-                                                    <h4><strong>Payment Summary</strong></h4>        
-                                                </div>
-                                                <hr>
-                                                <div class="col-12">
-                                                    <h6 class="float-start">Astro. Prem Raj Ghimire</h6>
-                                                    <span class="float-end">Date: 20 December 2020</span>            
-                                                </div>
-                                            </div>
-                                            <div class="row m-5">
-                                                <div class="col-6">Astrologer Consulting</div>
-                                                <div class="col-6"><span class="float-end">USD 500.0</span></div>
-                                                <div class="col-6">Service Tax</div>
-                                                <div class="col-6"><span class="float-end">USD 50.0</span></div>
-                                                <hr>
-                                                <div class="col-6"><strong>Total</strong></div>
-                                                <div class="col-6"><span class="float-end"><strong>USD 550.0</strong></span></div>
-                                                <div class="col-12 mt-4">
-                                                    <strong>Payment Method: </strong><span id="paymentmethod">Credit Card</span>
-                                                </div>
-                                                <div class="col-12">
-                                                    <strong>Card Number: </strong><span id="paymentmethod">1234 5678 9012</span>
-                                                </div>
-                                                <div class="col-12">
-                                                    <strong>Transcation ID: </strong><span id="txnid">0012</span>
+                                            <div class="modal-dialog modal-lg">
+                                                <div class="modal-content rounded-0">
+
+                                                    <div class="modal-body">
+                                                        <button type="button" class="btn-close float-end" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                        <br>
+                                                        <div class="row">
+                                                            <div class="col-12">
+                                                                <h4><strong>Payment Summary</strong></h4>
+                                                            </div>
+                                                            <hr>
+                                                            <div class="col-12">
+                                                                <h6 class="float-start">Astro. Prem Raj Ghimire</h6>
+                                                                <span class="float-end">Date: 20 December 2020</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row m-5">
+                                                            <div class="col-6">Astrologer Consulting</div>
+                                                            <div class="col-6"><span class="float-end">USD 500.0</span></div>
+                                                            <div class="col-6">Service Tax</div>
+                                                            <div class="col-6"><span class="float-end">USD 50.0</span></div>
+                                                            <hr>
+                                                            <div class="col-6"><strong>Total</strong></div>
+                                                            <div class="col-6"><span class="float-end"><strong>USD 550.0</strong></span></div>
+                                                            <div class="col-12 mt-4">
+                                                                <strong>Payment Method: </strong><span id="paymentmethod">Credit Card</span>
+                                                            </div>
+                                                            <div class="col-12">
+                                                                <strong>Card Number: </strong><span id="paymentmethod">1234 5678 9012</span>
+                                                            </div>
+                                                            <div class="col-12">
+                                                                <strong>Transcation ID: </strong><span id="txnid">0012</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                      </div>
-                                    </div>
-                                </div>
                                     </div>
                                     <div class="row align-items-center mb-3">
                                         <div class="col-3 col-sm-1 text-center">
@@ -195,7 +236,7 @@
                                         <div class="col-sm-4">
                                             <div class="float-end">
                                                 <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" class="success" src="assets/img/done-24px.svg" title="done">
+                                                <img id="txnstatus" src="assets/img/done-24px.svg" title="done">
                                                 <img src="assets/img/keyboard_arrow_right-24px.svg">
                                             </div>
                                         </div>
@@ -253,7 +294,7 @@
                                         <div class="col-sm-4">
                                             <div class="float-end">
                                                 <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" class="success" src="assets/img/done-24px.svg" title="done">
+                                                <img id="txnstatus" src="assets/img/done-24px.svg" title="done">
                                                 <img src="assets/img/keyboard_arrow_right-24px.svg">
                                             </div>
                                         </div>
@@ -298,42 +339,74 @@
                                         </div>
                                         <hr>
                                     </div>
-                                    <div class="row align-items-center mb-3">
-                                        <div class="col-3 col-sm-1 text-center">
-                                            <div class="date border p-1">
-                                                <h5 class="m-0">20</h5>
-                                                <span>Dec</span>
+                                    <div class="item row align-items-center mb-4">
+                                        <div class="col-3 col-md-2 align-self-start">
+                                            <div class="imgcover" style="width:100%;">
+                                                <img src="assets/img/Image-45.png" class="img-fluid">
                                             </div>
                                         </div>
-                                        <div class="col-9 col-sm-7">
-                                            <span class="float-start">White Sapphire</span>
+                                        <div class="col-5 col-md-6 align-self-start">
+                                            <p><strong>One Mukhi Rudraksha</strong></p>
+                                            <p>Product id: U-2162021-1</p>
+                                            <p>Qty: 1</p>
+                                            <p>Price: USD 400.0</p>
                                         </div>
-                                        <div class="col-sm-4">
+                                        <div class="col-4 align-self-start">
                                             <div class="float-end">
-                                                <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" class="pending" src="assets/img/autorenew-24px.svg" title="pending">
-                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                                <p>Date: 20 Feb 2021</p>
+                                                <p>
+                                                    <span>Txnid:</span><span id="txnid"> 0012</span>
+                                                    <img id="txnstatus" src="assets/img/autorenew-24px.svg" title="pending">
+                                                    <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                                </p>
                                             </div>
                                         </div>
+
                                     </div>
-                                    <div class="row align-items-center mb-3">
-                                        <div class="col-3 col-sm-1 text-center">
-                                            <div class="date border p-1">
-                                                <h5 class="m-0">20</h5>
-                                                <span>Dec</span>
+                                    <div class="item row align-items-center mb-4">
+                                        <div class="col-3 col-md-2 align-self-start">
+                                            <div class="imgcover" style="width:100%;">
+                                                <img src="assets/img/Image-45.png" class="img-fluid">
                                             </div>
                                         </div>
-                                        <div class="col-9 col-sm-7">
-                                            <span class="float-start">One Mukhi Rudraksha</span>
+                                        <div class="col-5 col-md-6 align-self-start">
+                                            <p><strong>Two Mukhi Rudraksha</strong></p>
+                                            <p>Product id: U-2162021-1</p>
+                                            <p>Qty: 1</p>
+                                            <p>Price: USD 400.0</p>
                                         </div>
-                                        <div class="col-sm-4">
+                                        <div class="col-4 align-self-start">
                                             <div class="float-end">
-                                                <span>Txnid:</span><span id="txnid"> 0012</span>
-                                                <img id="txnstatus" class="success" src="assets/img/done-24px.svg" title="done">
-                                                <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                                <p>Date: 20 Aug 2020</p>
+                                                <p>
+                                                    <span>Txnid:</span><span id="txnid"> 0012</span>
+                                                    <img id="txnstatus" src="assets/img/done-24px.svg" title="done">
+                                                    <img src="assets/img/keyboard_arrow_right-24px.svg">
+                                                </p>
                                             </div>
                                         </div>
+
                                     </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade p-3" id="list-security" role="tabpanel" aria-labelledby="list-security-list">
+                                <div class="mb-3"><strong>Change Password</strong></div>
+                                <div class="col-md-5 mb-3">
+                                    <label for="oldpassword" class="form-label">Old Password</label>
+                                    <input type="text" class="form-control" id="oldpassword">
+                                </div>
+                                <div class="col-md-5 d-none d-md-block"></div>
+                                <div class="col-md-5 mb-3">
+                                    <label for="newpassword" class="form-label">New Password</label>
+                                    <input type="text" class="form-control" id="newpassword">
+                                </div>
+                                <div class="col-md-5 d-none d-md-block"></div>
+                                <div class="col-md-5 mb-3">
+                                    <label for="cpassword" class="form-label">Confirm Password</label>
+                                    <input type="text" class="form-control" id="cpassword">
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary">Save Change</button>
                                 </div>
                             </div>
                         </div>

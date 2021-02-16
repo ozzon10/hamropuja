@@ -19,7 +19,7 @@
                             <div class="row">
                                 <div class="col-md col-sm-6">
                                     <ul class="list-unstyled">
-                                        <li><a href="">About Hamro Puja</a></li>
+                                        <li><a href="about.php">About Hamro Puja</a></li>
                                         <li><a href="">We offer</a></li>
                                         <li><a href="blog.php">Blog</a></li>
                                         <li><a href="">Downloads</a></li>
@@ -35,7 +35,7 @@
                                 <div class="col-md col-sm-6">
                                     <ul class="list-unstyled">
                                         <li><a href="">Horoscope</a></li>
-                                        <li><a href="">Patro</a></li>
+                                        <li><a href="patro.php">Patro</a></li>
                                         <li><a href="">BS to AD</a></li>
                                         <li><a href="">Literature</a></li>
                                         <li><a href="">Forex</a></li>
@@ -43,9 +43,9 @@
                                 </div>
                                 <div class="col-md col-sm-6">
                                     <ul class="list-unstyled">
-                                        <li><a href="">Astrologer</a></li>
-                                        <li><a href="">Temples</a></li>
-                                        <li><a href="">Puja</a></li>
+                                        <li><a href="astrologer.php">Astrologer</a></li>
+                                        <li><a href="temple.php">Temples</a></li>
+                                        <li><a href="puja.php">Puja</a></li>
                                         <li><a href="">Sait Herne</a></li>
                                     </ul>
                                 </div>

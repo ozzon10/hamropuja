@@ -76,7 +76,7 @@
                                 <p>Day 1 - <br>Day 2- <br>Day 3-</p>
                             </div>
                             <div class="col-sm-3 align-self-end">
-                                <a href="#" class="btn btn-primary" style="width: 100%;">Book Now</a>
+                                <a href="bookpuja.php" class="btn btn-primary" style="width: 100%;">Book Now</a>
                             </div>
                         </div>
                     </div>

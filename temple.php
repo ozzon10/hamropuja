@@ -45,7 +45,7 @@
                             
                             <div class="imgcover"><img src="assets/img/pashupati.jpg" class="card-img-top" alt="..."></div>
                             <div class="card-body">
-                                <h5 class="card-title"><a href="">Pashupatinath</a></h5>
+                                <h5 class="card-title"><a href="templedetail.php">Pashupatinath</a></h5>
                               <p class="card-text">The most famous natural cave in Khotang District is said to have been the abode of Mahadeva while hiding away from the monster Bhasmasur.</p>
                             </div>
                           </div>
@@ -84,7 +84,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Barachhetra</h5>
+                            <a href=""><h5 class="card-title">Barachhetra</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Janaki Mandir</h5>
+                            <a href=""><h5 class="card-title">Janaki Mandir</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Buddha Stupa</h5>
+                            <a href=""><h5 class="card-title">Buddha Stupa</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Sankata</h5>
+                            <a href=""><h5 class="card-title">Sankata</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -152,7 +152,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Guheshwori</h5>
+                            <a href=""><h5 class="card-title">Guheshwori</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -169,7 +169,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Budhanilkantha</h5>
+                            <a href=""><h5 class="card-title">Budhanilkantha</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Dakshinkali</h5>
+                            <a href=""><h5 class="card-title">Dakshinkali</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -203,7 +203,7 @@
                         </div>
                         <div class="col-sm-8 col-8">
                             <div class="card-body ">
-                            <h5 class="card-title">Palanchowk Bhagwati</h5>
+                            <a href=""><h5 class="card-title">Palanchowk Bhagwati</h5></a>
                             <p class="card-text d-block d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>
@@ -220,7 +220,7 @@
                         </div>
                         <div class="col-sm-8 col-8" >
                             <div class="card-body ">
-                            <h5 class="card-title">Manakamana</h5>
+                            <a href=""><h5 class="card-title">Manakamana</h5></a>
                             <p class="card-text d-sm-none d-md-none d-lg-block">The most famous natural cave in Khotang District is said to </p>
                             </div>
                         </div>

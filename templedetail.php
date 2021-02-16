@@ -116,7 +116,7 @@
                                         <span class="card-text">Panchamrit Puja</span>
                                     </div>
                                     <div class="col-4">
-                                        <a href="#" class="btn btn-primary btn-sm  float-end">Book Now</a>
+                                        <a href="bookpuja.php" class="btn btn-primary btn-sm  float-end">Book Now</a>
                                     </div>
                                 </div>
                                 <div class="row ">

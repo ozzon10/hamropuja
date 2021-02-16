@@ -49,7 +49,7 @@
                                 <p>-Membership card and other gist vouchers.</p>
                                 <p>-30% cashback in shopped items.</p>
                                 <p>-Assistance will be provided during temple visit.</p>
-                                <button type="button" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</button>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                                 <p>-Assistance will be provided during temple visit.</p>
                                 <p>-Self-recording of puja by the user built in the screen.</p>
                                 <p>-Membership card, other gift vouchers, random cashback opportunities.</p>
-                                <button type="button" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</button>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                                 <p>-Can be opened on 3 devices at a time.</p>
                                 <p>-10% cashback on every shopping items</p>
                                 <p>-5% cashback on further bookings of pujas and jyotish after 4 puja and 3 jyotish respectively.</p>
-                                <button type="button" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</button>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                                 <p>-Attend 2 jyotish/lama in a year along with kundali if not made.</p>
                                 <p>-Prasads from temples will be delivered to home</p>
                                 <p>-Can be opened on 2 devices at a time.</p>
-                                <button type="button" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</button>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                                 <p>-Livestream of aarati</p>
                                 <p>-Attend 1 Puja in enlisted temple per year.</p>
                                 <p>-Attend 1 jyotish/lama in a year along with kundali if not made.</p>
-                                <button type="button" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</button>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
                             </div>
                         </div>
                     </div>

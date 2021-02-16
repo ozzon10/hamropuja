@@ -144,6 +144,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -510,6 +514,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -899,6 +907,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -1299,6 +1311,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -1763,6 +1779,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -2092,6 +2112,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -2412,6 +2436,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -2807,6 +2835,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -3140,6 +3172,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -3350,7 +3386,6 @@ footer .newsletter .btn-primary {
 }
 .blog .content .list .card .card-title {
   font-size: 20px;
-  font-weight: 700;
 }
 .blog .content .list .card .review img {
   width: 16px;
@@ -3504,6 +3539,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -3888,6 +3927,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -4211,6 +4254,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -4528,6 +4575,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -4849,6 +4900,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -5173,6 +5228,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -5493,6 +5552,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -5850,6 +5913,9 @@ textarea {
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
 }
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -6125,6 +6191,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -6461,6 +6531,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -6790,6 +6864,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -7171,6 +7249,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -7516,6 +7598,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -7843,6 +7929,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -8206,6 +8296,10 @@ textarea {
   margin-top: 0;
 }
 
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -8370,7 +8464,7 @@ footer .newsletter .btn-primary {
 
 .dashboard .content .panel .pic {
   height: 124px;
-  width: 124pxz;
+  width: 124px;
 }
 .dashboard .content .panel a {
   text-align: left;
@@ -8386,6 +8480,9 @@ footer .newsletter .btn-primary {
 .dashboard .content .date {
   width: -webkit-fit-content;
   width: fit-content;
+}
+.dashboard .content .shop .item p, .dashboard .content .temple .item p {
+  margin-bottom: 0;
 }
 
 .bg-red {
@@ -8532,6 +8629,10 @@ textarea {
 
 .header .navbar .navbar-collapse .dropdown-menu {
   margin-top: 0;
+}
+
+.header .navbar .navbar-collapse .dropdown-item:focus {
+  background-color: #FF9537;
 }
 
 .header .navbar .navbar-collapse .action .btn {

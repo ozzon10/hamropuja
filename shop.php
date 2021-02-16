@@ -109,7 +109,7 @@
                                                 <p>USD 450</p>
                                             </div>
                                             <div class="col-4 align-self-center">
-                                                <a href="#"
+                                                <a href="productdetail.php"
                                                     class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
                                             </div>
                                         </div>

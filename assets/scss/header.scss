@@ -34,6 +34,9 @@ $red-color  :#C10F0F;
 			.dropdown-menu{
 				margin-top: 0;
 			}
+			.dropdown-item:focus{
+				background-color: $brand;
+			}
 			.action {
 				.btn {
 					box-shadow: none;

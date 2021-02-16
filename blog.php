@@ -37,7 +37,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col">
-                                        <h5 class="card-title float-start">Title</h5>
+                                        <a href="blogdetail.php"><h5 class="card-title float-start">Title</h5></a>
                                         <span class="float-end">1h ago</span>
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col">
-                                        <h5 class="card-title float-start">Title</h5>
+                                        <a href=""><h5 class="card-title float-start">Title</h5></a>
                                         <span class="float-end">1h ago</span>
                                     </div>
                                 </div>
@@ -84,7 +84,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col">
-                                        <h5 class="card-title float-start">Title</h5>
+                                        <a href=""><h5 class="card-title float-start">Title</h5></a>
                                         <span class="float-end">1h ago</span>
                                     </div>
                                 </div>
@@ -107,7 +107,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col">
-                                        <h5 class="card-title float-start">Title</h5>
+                                        <a href=""><h5 class="card-title float-start">Title</h5></a>
                                         <span class="float-end">1h ago</span>
                                     </div>
                                 </div>
@@ -130,7 +130,7 @@
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col">
-                                        <h5 class="card-title float-start">Title</h5>
+                                        <a href=""><h5 class="card-title float-start">Title</h5></a>
                                         <span class="float-end">1h ago</span>
                                     </div>
                                 </div>

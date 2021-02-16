@@ -76,19 +76,6 @@
                             <input type="date" class="form-control" id="dob">
                         </div>
                         <div class="col-md-4 col-sm-6">
-                            <label for="horoscope" class="form-label">Horoscope</label>
-                            <select id="horoscope" class="form-select">
-                                <option selected>Choose...</option>
-                                <option>...</option>
-                            </select>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-4 col-sm-6">
-                            <label for="Kundali" class="form-label">Kundali (optional)</label>
-                            <input type="file" class="form-control" id="Kundali">
-                        </div>
-                        <div class="col-md-4 col-sm-6">
                             <label for="horoscope" class="form-label">Membership Plan</label>
                             <select id="horoscope" class="form-select">
                                 <option selected>Choose Plan</option>
