@@ -1,3 +1,13 @@
+<script>
+    $(document).ready(function() {
+        $(".dropdown").hover(function() {
+            var dropdownMenu = $(this).children(".dropdown-menu");
+            if (dropdownMenu.is(":visible")) {
+                dropdownMenu.parent().toggleClass("open");
+            }
+        });
+    });
+</script>
 <div class="header">
     <nav class="navbar navbar-expand-xl navbar-light">
         <div class="container-fluid">
@@ -14,11 +24,10 @@
                         <a class="nav-link" href="#">Monk</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <!-- <a class="nav-link" href="">Temple</a> -->
-                        <a class="nav-link dropdown-toggle" href="temple.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a href="temple.php" class="nav-link dropdown-toggle" data-toggle="dropdown">
                             Temple
                         </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">Monastery</a></li>
                             <li><a class="dropdown-item" href="#">Kunda</a></li>
                         </ul>

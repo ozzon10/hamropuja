@@ -28,6 +28,12 @@ $red-color  :#C10F0F;
 		background-color: #FF9537;
 		.navbar-collapse {
 			margin-left: 0px;
+			.dropdown:hover .dropdown-menu{
+				display: block;
+			}
+			.dropdown-menu{
+				margin-top: 0;
+			}
 			.action {
 				.btn {
 					box-shadow: none;

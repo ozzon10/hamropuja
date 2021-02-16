@@ -136,6 +136,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -494,6 +502,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -875,6 +891,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -1267,6 +1291,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -1723,6 +1755,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -2044,6 +2084,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -2356,6 +2404,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -2743,6 +2799,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -2908,6 +2972,10 @@ footer .newsletter .btn-primary {
 .yagyadetail .content .title {
   margin-top: 40px;
 }
+.yagyadetail .content .title hr {
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
 .yagyadetail .content .title h1 {
   font-size: 26px;
 }
@@ -3062,6 +3130,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -3420,6 +3496,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -3796,6 +3880,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -4111,6 +4203,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -4420,6 +4520,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -4733,6 +4841,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -5049,6 +5165,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -5361,6 +5485,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -5712,6 +5844,12 @@ textarea {
 .header .navbar .navbar-collapse {
   margin-left: 0px;
 }
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -5979,6 +6117,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -6307,6 +6453,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -6628,6 +6782,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -7001,6 +7163,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -7338,6 +7508,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -7657,6 +7835,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
@@ -8012,6 +8198,14 @@ textarea {
   margin-left: 0px;
 }
 
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
+}
+
 .header .navbar .navbar-collapse .action .btn {
   box-shadow: none;
   position: relative;
@@ -8330,6 +8524,14 @@ textarea {
 
 .header .navbar .navbar-collapse {
   margin-left: 0px;
+}
+
+.header .navbar .navbar-collapse .dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.header .navbar .navbar-collapse .dropdown-menu {
+  margin-top: 0;
 }
 
 .header .navbar .navbar-collapse .action .btn {
