@@ -4,32 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-        <link rel="preconnect" href="https://fonts.gstatic.com">
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="assets/css/all.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/all.css" />
     <title>shop</title>
 </head>
 
 <body>
     <div class="shop">
-    <?php include 'inc/header.php'; ?>
+        <?php include 'inc/header.php'; ?>
         <div class="content">
             <div class="container-xxl">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        </ol>
-                    </nav>
-                    <div class="row title">
-                        <div class="col">
-                            <h1><strong>Shop</strong></h1>
-                            <hr class="mb-0">
-                        </div>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    </ol>
+                </nav>
+                <div class="row title">
+                    <div class="col">
+                        <h1><strong>Shop</strong></h1>
+                        <hr class="mb-0">
                     </div>
+                </div>
                 <div class="row mt-4">
-                    <div class="col-6 mb-4 d-md-none">
+                    <!-- <div class="col-6 mb-4 d-md-none">
                         <div class="dropdown shadow-sm" >
                             <button style="width: 100%;" class="btn btn-primary btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
                               Categories
@@ -40,14 +39,47 @@
                               <li><a class="dropdown-item" href="#">Diamond</a></li>
                             </ul>
                           </div>
-                    </div>
-                    <div class="col-xl-3 col-md-2 d-none d-md-block">
-                        <p><strong>Categories</strong></p>
-                        <ul class="list-unstyled">
-                            <li>Rudraksha</li>
-                            <li>Pearls</li>
-                            <li>Diamond</li>
-                        </ul>
+                    </div> -->
+                    <div class="col-xl-3 col-lg-2">
+                        <p><h5><strong>Categories</strong></h5></p>
+                        <div class="accordion accordion-flush" id="accordionFlushExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="flush-headingOne">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                        Rudraksha
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <a href="">- One Mukhi</a><br>
+                                        <a href="">- Two Mukhi</a><br>
+                                        <a href="">- Three Mukhi</a><br>
+                                        <a href="">- Four Mukhi</a><br>
+                                        <a href="">- Five Mukhi</a><br>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="flush-headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        Pearl
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">..</div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="flush-headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        Diamond
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">..</div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="popular d-none d-xl-block">
                             <div class="card">
                                 <div class="row g-0">
@@ -68,7 +100,8 @@
                                 <div class="row g-0">
                                     <div class="col-3">
                                         <div class="image" style=" background-color: grey; width: 100%; height: 72px;">
-                                            <img src="..." alt="..."></div>
+                                            <img src="..." alt="...">
+                                        </div>
                                     </div>
                                     <div class="col-9">
                                         <div class="card-body">
@@ -82,7 +115,8 @@
                                 <div class="row g-0">
                                     <div class="col-3">
                                         <div class="image" style=" background-color: grey; width: 100%; height: 72px;">
-                                            <img src=".." alt="..."></div>
+                                            <img src=".." alt="...">
+                                        </div>
                                     </div>
                                     <div class="col-9">
                                         <div class="card-body">
@@ -95,12 +129,13 @@
 
                         </div>
                     </div>
-                    <div class="col-xl-9 col-md-10">
+                    <div class="col-xl-9 col-lg-10">
                         <div class="row list">
-                            <div class="col-lg-4 col-sm-6 mb-3">
+                            <div class="col-lg-4 col-md-6 mb-3">
                                 <div class="card" style="width: 100%">
                                     <div class="image" style="background-color: grey;">
-                                        <img src="assets/img/Image-45.png" class="card-img-top rounded-0 img-fluid" alt="..."></div>
+                                        <img src="assets/img/Image-45.png" class="card-img-top rounded-0 img-fluid" alt="...">
+                                    </div>
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-8">
@@ -109,8 +144,7 @@
                                                 <p>USD 450</p>
                                             </div>
                                             <div class="col-4 align-self-center">
-                                                <a href="productdetail.php"
-                                                    class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
+                                                <a href="productdetail.php" class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
                                             </div>
                                         </div>
                                     </div>
@@ -118,8 +152,7 @@
                             </div>
                             <div class="col-lg-4 col-sm-6 mb-3">
                                 <div class="card" style="width: 100%">
-                                    <div class="image" style="background-color: grey;"><img src=".."
-                                            class="card-img-top rounded-0 img-fluid" alt="..."></div>
+                                    <div class="image" style="background-color: grey;"><img src=".." class="card-img-top rounded-0 img-fluid" alt="..."></div>
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-8">
@@ -128,8 +161,7 @@
                                                 <p>USD 450</p>
                                             </div>
                                             <div class="col-4 align-self-center">
-                                                <a href="#"
-                                                    class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
+                                                <a href="#" class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
                                             </div>
                                         </div>
                                     </div>
@@ -137,8 +169,7 @@
                             </div>
                             <div class="col-lg-4 col-sm-6 mb-3">
                                 <div class="card" style="width: 100%">
-                                    <div class="image" style="background-color: grey;"><img src="..."
-                                            class="card-img-top rounded-0 img-fluid" alt="..."></div>
+                                    <div class="image" style="background-color: grey;"><img src="..." class="card-img-top rounded-0 img-fluid" alt="..."></div>
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-8">
@@ -147,27 +178,7 @@
                                                 <p>USD 450</p>
                                             </div>
                                             <div class="col-4 align-self-center">
-                                                <a href="#"
-                                                    class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-sm-6 mb-3">
-                                <div class="card" style="width: 100%">
-                                    <div class="image" style="background-color: grey;overflow: hidden;">
-                                        <img src=".." class="card-img-top rounded-0 img-fluid" alt="..."></div>
-                                    <div class="card-body">
-                                        <div class="row">
-                                            <div class="col-8">
-                                                <p class="card-text"><strong>One Mukhi Rudraksha</strong></p>
-                                                <p>Rudraksha</p>
-                                                <p>USD 450</p>
-                                            </div>
-                                            <div class="col-4 align-self-center">
-                                                <a href="#"
-                                                    class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
+                                                <a href="#" class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
                                             </div>
                                         </div>
                                     </div>
@@ -176,7 +187,8 @@
                             <div class="col-lg-4 col-sm-6 mb-3">
                                 <div class="card" style="width: 100%">
                                     <div class="image" style="background-color: grey;overflow: hidden;">
-                                        <img src=".." class="card-img-top rounded-0 img-fluid" alt="..."></div>
+                                        <img src=".." class="card-img-top rounded-0 img-fluid" alt="...">
+                                    </div>
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-8">
@@ -185,8 +197,7 @@
                                                 <p>USD 450</p>
                                             </div>
                                             <div class="col-4 align-self-center">
-                                                <a href="#"
-                                                    class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
+                                                <a href="#" class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
                                             </div>
                                         </div>
                                     </div>
@@ -195,7 +206,8 @@
                             <div class="col-lg-4 col-sm-6 mb-3">
                                 <div class="card" style="width: 100%">
                                     <div class="image" style="background-color: grey;overflow: hidden;">
-                                        <img src=".." class="card-img-top rounded-0 img-fluid" alt="..."></div>
+                                        <img src=".." class="card-img-top rounded-0 img-fluid" alt="...">
+                                    </div>
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-8">
@@ -204,8 +216,26 @@
                                                 <p>USD 450</p>
                                             </div>
                                             <div class="col-4 align-self-center">
-                                                <a href="#"
-                                                    class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
+                                                <a href="#" class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 mb-3">
+                                <div class="card" style="width: 100%">
+                                    <div class="image" style="background-color: grey;overflow: hidden;">
+                                        <img src=".." class="card-img-top rounded-0 img-fluid" alt="...">
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-8">
+                                                <p class="card-text"><strong>One Mukhi Rudraksha</strong></p>
+                                                <p>Rudraksha</p>
+                                                <p>USD 450</p>
+                                            </div>
+                                            <div class="col-4 align-self-center">
+                                                <a href="#" class="btn btn-primary btn-sm shadow-sm float-end rounded-pill">Buy</a>
                                             </div>
                                         </div>
                                     </div>
@@ -240,7 +270,8 @@
                     <div class="col">
                         <div class="banner">
                             <p class="float-end mt-5 me-5">प्रस्तुत छ, घरमै बसेर आफ्नो कुण्डलीको बारेमा सम्पूर्ण
-                                <br>जानकारी प्राप्त गर्ने नयाँ तरिका</p>
+                                <br>जानकारी प्राप्त गर्ने नयाँ तरिका
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -248,18 +279,15 @@
         </div>
         <?php include 'inc/footer.php'; ?>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
-        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
-        crossorigin="anonymous"></script>
-        <script>
-            jQuery(function(){
-                $('.feedback').click(function(){
-                    $(this).find('.content').toggleClass('open');
-                })
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script>
+        jQuery(function() {
+            $('.feedback').click(function() {
+                $(this).find('.content').toggleClass('open');
             })
-        </script>
+        })
+    </script>
 </body>
 
 </html>

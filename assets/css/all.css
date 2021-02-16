@@ -7102,6 +7102,14 @@ footer .newsletter .btn-primary {
   color: white;
   background-color: #FF9537;
 }
+.shop .content .accordion-button:not(.collapsed) {
+  background-color: transparent;
+}
+.shop .content .accordion-button:focus {
+  z-index: 3;
+  outline: 0;
+  box-shadow: none;
+}
 
 .bg-red {
   background: #C10F0F 0% 0% no-repeat padding-box;
@@ -7450,6 +7458,14 @@ footer .newsletter .btn-primary {
 }
 .productdetail .content .btn-outline-secondary:hover {
   background-color: grey;
+}
+.productdetail .content .accordion-button:not(.collapsed) {
+  background-color: transparent;
+}
+.productdetail .content .accordion-button:focus {
+  z-index: 3;
+  outline: 0;
+  box-shadow: none;
 }
 
 .bg-red {

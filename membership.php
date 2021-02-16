@@ -36,29 +36,59 @@
                 <div class="row mt-5">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="card align-items-center shadow-sm rounded-0 h-100">
-                            <img src="assets/img/66-660012_yellow-star-clip-art-stars-clipart-gold-border@2x.png" class="card-img-top p-3" alt="...">
+                            <img src="assets/img/silver-membership@2x.png" class="card-img-top p-3" alt="...">
                             <div class="card-body d-flex flex-column">
-                                <p class="card-title text-center"><strong>Sacred Membership</strong></p>
-                                <p class="price text-center"><strong>USD 2499.99/</strong> <span class="year">year</span></p>
-                                <p>-Livestream of aarati and other mandir rituals</p>
-                                <p>-Attend any puja on enlisted temples</p>
-                                <p>-Attend jyotish/lama as per your choice along with kundali if not made.</p>
-                                <p>-Prasads from temples will be delivered to home</p>
-                                <p>-Can be opened on 4 devices at a time.</p>
-                                <p>-Self-recording of puja by the user built in screen.</p>
-                                <p>-Membership card and other gist vouchers.</p>
-                                <p>-30% cashback in shopped items.</p>
-                                <p>-Assistance will be provided during temple visit.</p>
-                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
+                                <p class="card-title text-center"><strong>Ruby Membership</strong></p>
+                                <p class="price text-center"><strong>USD 49.99/</strong> <span class="year">year</span></p>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary mb-4" style="width: 70%;">Buy Now</a>
+                                <p>-Livestream of aarati</p>
+                                <p>-Attend 1 Puja in enlisted temple per year.</p>
+                                <p>-Attend 1 jyotish/lama in a year along with kundali if not made.</p>
+                                
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="card align-items-center shadow-sm rounded-0 h-100">
+                            <img src="assets/img/silver-membership@2x.png" class="card-img-top p-3" alt="...">
+                            <div class="card-body d-flex flex-column">
+                                <p class="card-title text-center"><strong>Opal Membership</strong></p>
+                                <p class="price text-center"><strong>USD 79.99/</strong> <span class="year">year</span></p>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary mb-4" style="width: 70%;">Buy Now</a>
+                                <p>-Livestream of aarati and other mandir rituals</p>
+                                <p>-Attend 2 puja on enlisted temples</p>
+                                <p>-Attend 2 jyotish/lama in a year along with kundali if not made.</p>
+                                <p>-Prasads from temples will be delivered to home</p>
+                                <p>-Can be opened on 2 devices at a time.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4">
+                        <div class="card align-items-center shadow-sm rounded-0 h-100">
+                            <img src="assets/img/gold-membership@2x.png" class="card-img-top p-3" alt="...">
+                            <div class="card-body d-flex flex-column">
+                                <p class="card-title text-center"><strong>Divine Membership</strong></p>
+                                <p class="price text-center"><strong>USD 99.99/</strong> <span class="year">year</span></p>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary mb-4" style="width: 70%;">Buy Now</a>
+                                <p>-Livestream of aarati and other mandir rituals</p>
+                                <p>-Attend 4 puja on enlisted temples</p>
+                                <p>-Attend 3 jyotish/lama in a year along with kundali if not made.</p>
+                                <p>-Prasads from temples will be delivered to home</p>
+                                <p>-Can be opened on 3 devices at a time.</p>
+                                <p>-10% cashback on every shopping items</p>
+                                <p>-5% cashback on further bookings of pujas and jyotish after 4 puja and 3 jyotish respectively.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4 offset-lg-2">
+                        <div class="card align-items-center shadow-sm rounded-0 h-100">
                             <img src="assets/img/platinum-membership@2x.png" class="card-img-top p-3" alt="...">
                             <div class="card-body d-flex flex-column">
                                 <p class="card-title text-center"><strong>Holy Membership</strong></p>
                                 <p class="price text-center"><strong>USD 999.99/</strong> <span class="year">year</span></p>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary mb-4" style="width: 70%;">Buy Now</a>
                                 <p>-Livestream of aarati and other mandir rituals</p>
                                 <p>-Attend 5 puja on enlisted temples</p>
                                 <p>-Attend jyotish/lama in a year along with kundali if not made.</p>
@@ -69,55 +99,34 @@
                                 <p>-Assistance will be provided during temple visit.</p>
                                 <p>-Self-recording of puja by the user built in the screen.</p>
                                 <p>-Membership card, other gift vouchers, random cashback opportunities.</p>
-                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
+                                
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="card align-items-center shadow-sm rounded-0 h-100">
-                            <img src="assets/img/gold-membership@2x.png" class="card-img-top p-3" alt="...">
+                            <img src="assets/img/66-660012_yellow-star-clip-art-stars-clipart-gold-border@2x.png" class="card-img-top p-3" alt="...">
                             <div class="card-body d-flex flex-column">
-                                <p class="card-title text-center"><strong>Divine Membership</strong></p>
-                                <p class="price text-center"><strong>USD 99.99/</strong> <span class="year">year</span></p>
+                                <p class="card-title text-center"><strong>Sacred Membership</strong></p>
+                                <p class="price text-center"><strong>USD 2499.99/</strong> <span class="year">year</span></p>
+                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary mb-4" style="width: 70%;">Buy Now</a>
                                 <p>-Livestream of aarati and other mandir rituals</p>
-                                <p>-Attend 4 puja on enlisted temples</p>
-                                <p>-Attend 3 jyotish/lama in a year along with kundali if not made.</p>
+                                <p>-Attend any puja on enlisted temples</p>
+                                <p>-Attend jyotish/lama as per your choice along with kundali if not made.</p>
                                 <p>-Prasads from temples will be delivered to home</p>
-                                <p>-Can be opened on 3 devices at a time.</p>
-                                <p>-10% cashback on every shopping items</p>
-                                <p>-5% cashback on further bookings of pujas and jyotish after 4 puja and 3 jyotish respectively.</p>
-                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
+                                <p>-Can be opened on 4 devices at a time.</p>
+                                <p>-Self-recording of puja by the user built in screen.</p>
+                                <p>-Membership card and other gist vouchers.</p>
+                                <p>-30% cashback in shopped items.</p>
+                                <p>-Assistance will be provided during temple visit.</p>
+                                
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 offset-lg-2 col-sm-6 mb-4">
-                        <div class="card align-items-center shadow-sm rounded-0 h-100">
-                            <img src="assets/img/silver-membership@2x.png" class="card-img-top p-3" alt="...">
-                            <div class="card-body d-flex flex-column">
-                                <p class="card-title text-center"><strong>Opal Membership</strong></p>
-                                <p class="price text-center"><strong>USD 49.99/</strong> <span class="year">year</span></p>
-                                <p>-Livestream of aarati and other mandir rituals</p>
-                                <p>-Attend 2 puja on enlisted temples</p>
-                                <p>-Attend 2 jyotish/lama in a year along with kundali if not made.</p>
-                                <p>-Prasads from temples will be delivered to home</p>
-                                <p>-Can be opened on 2 devices at a time.</p>
-                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <div class="card align-items-center shadow-sm rounded-0 h-100">
-                            <img src="assets/img/silver-membership@2x.png" class="card-img-top p-3" alt="...">
-                            <div class="card-body d-flex flex-column">
-                                <p class="card-title text-center"><strong>Ruby Membership</strong></p>
-                                <p class="price text-center"><strong>USD 49.99/</strong> <span class="year">year</span></p>
-                                <p>-Livestream of aarati</p>
-                                <p>-Attend 1 Puja in enlisted temple per year.</p>
-                                <p>-Attend 1 jyotish/lama in a year along with kundali if not made.</p>
-                                <a href="memberform.php" class="align-self-center btn btn-lg btn-primary" style="margin-top: auto;">Book Now</a>
-                            </div>
-                        </div>
-                    </div>
+                    
+                    
+                    
+
                 </div>
             </div>
         </div>

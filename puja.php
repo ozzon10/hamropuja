@@ -108,7 +108,7 @@
                                         <small>Vaidik</small>
                                         <a href=""><h5 class="card-title">Bibaha (Marriage)</h5></a>
                                         <p class="card-text d-block d-sm-none d-md-none d-lg-none d-xl-block">A Hindu
-                                            wedding, known as Vivaha in Sanskrit is the traditional</p>
+                                            wedding, known as Vivaha in Sanskrit is the </p>
                                     </div>
                                 </div>
                             </div>

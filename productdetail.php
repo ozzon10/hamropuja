@@ -30,13 +30,43 @@
                     </div>
                 
                 <div class="row mt-4">
-                    <div class="col-xl-3 col-md-2">
-                        <p><strong>Categories</strong></p>
-                        <ul class="list-unstyled">
-                            <li>Rudraksha</li>
-                            <li>Pearls</li>
-                            <li>Sapphire</li>
-                        </ul>
+                    <div class="col-xl-3 col-lg-2">
+                    <p><h5><strong>Categories</strong></h5></p>
+                        <div class="accordion accordion-flush" id="accordionFlushExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="flush-headingOne">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                        Rudraksha
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">
+                                        <a href="">- One Mukhi</a><br>
+                                        <a href="">- Two Mukhi</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="flush-headingTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        Pearl
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">..</div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="flush-headingThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        Diamond
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                    <div class="accordion-body">..</div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="popular d-none d-xl-block">
                             <div class="card">
                                 <div class="row g-0">
@@ -86,7 +116,7 @@
 
                         </div>
                     </div>
-                    <div class="col-xl-9 col-md-10">
+                    <div class="col-xl-9 col-lg-10">
                         <div class="row">
                             <div class="col-sm-7">
                                 <img class="image" src="assets/img/Image-45.png" alt="">
@@ -113,7 +143,7 @@
                                         <button type="button" style="width: 100%;" class="btn btn-light shadow-sm"><strong>Add to Cart</strong></button>
                                     </div>
                                     <div class="col-6">
-                                        <button type="button" style="width: 100%;" class="btn btn-primary"><strong>Book Now</strong></button>
+                                        <button type="button" style="width: 100%;" class="btn btn-primary"><strong>Buy Now</strong></button>
                                     </div>
                                 </div>
                             </div>
