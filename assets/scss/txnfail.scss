@@ -1,0 +1,25 @@
+@use 'common';
+@use 'header';
+@use 'footer';
+
+.txnfail{
+    .content{
+        .box{
+            background-color: white;
+            margin-top:50px;
+            margin-left: auto;
+            margin-right: auto;
+            .box-content{
+                padding: 40px;
+                h4{
+                    margin-bottom: 30px;
+                }
+                img{
+                    width: 20%;
+                    height: 20%;
+                }
+            }
+            box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.32);
+        }
+    }
+}

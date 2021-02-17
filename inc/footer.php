@@ -71,7 +71,7 @@
         <div class="feedback open">
             <ul class="nav nav-tabs">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Feedback</a>
+                  <a class="nav-link active" aria-current="page" href="javascript:void(0);">Feedback</a>
                 </li>
                
               </ul>
