@@ -18,44 +18,6 @@
                     <div class="box-content text-center">
                         <h4>Thank You!<br> Your transcation is successful</h4>
                         <img src="assets/img/success-svgrepo-com.svg">
-                        <!-- <div class="row mt-4">
-                            <div class="col-6 fw-bold">
-                                <p class="float-start">Amount:</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="float-end">USD 1200.0</p>
-                            </div>
-                            <div class="col-6 fw-bold">
-                                <p class="float-start">Payment Method:</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="float-end">Paypal</p>
-                            </div>
-                            <div class="col-6 fw-bold">
-                                <p class="float-start">Name:</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="float-end">Ram Ghimire</p>
-                            </div>
-                            <div class="col-6 fw-bold">
-                                <p class="float-start">Email:</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="float-end">ram_10@gmail.com</p>
-                            </div>
-                            <div class="col-6 fw-bold">
-                                <p class="float-start">Phone:</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="float-end">1234567890</p>
-                            </div>
-                            <div class="col-6 fw-bold">
-                                <p class="float-start">Transcation Id:</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="float-end">U-262020-1</p>
-                            </div>    
-                        </div> -->
                     </div>
                 </div>
             </div>
