@@ -36,7 +36,7 @@
                                                 <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
                                         </div>
                                         <div class="col-md-10 col-lg-11">
-                                            <div class="card-body">
+                                            <div class="card-body text-center text-md-start">
                                                 <h5 class="card-title">Ram kumar</h5>
                                                 <p class="card-text">Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
                                             </div>
@@ -51,7 +51,7 @@
                                                 <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
                                         </div>
                                         <div class="col-md-10 col-lg-11">
-                                            <div class="card-body">
+                                            <div class="card-body text-center text-md-start">
                                                 <h5 class="card-title">Ram kumar</h5>
                                                 <p class="card-text">Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
                                             </div>
@@ -66,7 +66,7 @@
                                                 <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
                                         </div>
                                         <div class="col-md-10 col-lg-11">
-                                            <div class="card-body">
+                                            <div class="card-body text-center text-md-start">
                                                 <h5 class="card-title">Ram kumar</h5>
                                                 <p class="card-text">Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
                                             </div>
