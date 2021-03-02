@@ -1384,3 +1384,27 @@ footer .newsletter .btn-primary {
   width: 20%;
   height: 20%;
 }
+
+.testimonial .content .title {
+  margin-top: 40px;
+}
+.testimonial .content .title hr {
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+.testimonial .content .title h1 {
+  font-size: 26px;
+}
+.testimonial .clientsays {
+  margin: 60px 0;
+}
+.testimonial .clientsays img {
+  width: 80px;
+  height: 80px;
+}
+.testimonial .clientsays h5 {
+  font-weight: 800;
+}
+.testimonial .clientsays p {
+  font-style: italic;
+}
