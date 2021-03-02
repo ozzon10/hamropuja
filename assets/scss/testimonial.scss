@@ -13,6 +13,13 @@
       }
     }
     .clientsays{
+        .card{
+            background-color: transparent;
+            border:none;
+            .card-body{
+                padding-top: 0;
+            }
+        }
         margin:60px 0;
         img{
             width: 80px;

@@ -26,46 +26,52 @@
                         </div>
                     </div>
                 </div>
-                <div class="clientsays">
-                    <div class="row">
-                        <div class="col-12 mb-4">
-                            <div class="row">
-                                <div class="col-md-2">
-                                    <div class="imgcover ">
-                                        <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
+                <div class="container">
+                    <div class="clientsays">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="card mb-4">
+                                    <div class="row g-0">
+                                        <div class="col-md-2 col-lg-1">
+                                                <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
+                                        </div>
+                                        <div class="col-md-10 col-lg-11">
+                                            <div class="card-body">
+                                                <h5 class="card-title">Ram kumar</h5>
+                                                <p class="card-text">Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col text-center text-md-start p-2">
-                                    <h5>Ram kumar</h5>
-                                    <p>Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-12 mb-4">
-                            <div class="row">
-                                <div class="col-md-2">
-                                    <div class="imgcover">
-                                        <img src="assets/img/Image-38.png" class="rounded-circle d-block mx-auto mx-md-0">
+                            <div class="col-12">
+                                <div class="card mb-4">
+                                    <div class="row g-0">
+                                        <div class="col-md-2 col-lg-1">
+                                                <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
+                                        </div>
+                                        <div class="col-md-10 col-lg-11">
+                                            <div class="card-body">
+                                                <h5 class="card-title">Ram kumar</h5>
+                                                <p class="card-text">Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col text-center text-md-start p-2">
-                                    <h5>Ram kumar</h5>
-                                    <p>Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-12 mb-4">
-                            <div class="row">
-                                <div class="col-md-2">
-                                    <div class="imgcover">
-                                        <img src="assets/img/Image-39.png" class="rounded-circle d-block mx-auto mx-md-0">
+                            <div class="col-12">
+                                <div class="card mb-4">
+                                    <div class="row g-0">
+                                        <div class="col-md-2 col-lg-1">
+                                                <img src="assets/img/Image-37.png" class="rounded-circle d-block mx-auto mx-md-0">
+                                        </div>
+                                        <div class="col-md-10 col-lg-11">
+                                            <div class="card-body">
+                                                <h5 class="card-title">Ram kumar</h5>
+                                                <p class="card-text">Usually, it is considered luck to see something that you don’t usually see. But I would want to define this experience as something else. Getting to see the level of dedication, enthusiasm, unity, respect and professionalism from the team of Hamro Puja. Yes, it was rare. Maybe the reason it was so inspirational. Thank you, Hamro Puja team.</p>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col text-center text-md-start p-2">
-                                    <h5>Ram kumar</h5>
-                                    <p>Hamro Puja not stands to exist but to make a change. Changes that we wanted to see in a place, we aspire to stand. Not only did Hamro Puja supported and influenced to change the traditional system of our prayers and wishes, but in the verge of making the change, they changed the perception we put on ourselves. Hamro Puja is not just a platform to make prayers and wishes but a strong bonding between people who have a minute faith in religious values. Best wishes, Hamro Puja!!
-
-                                    </p>
                                 </div>
                             </div>
                         </div>

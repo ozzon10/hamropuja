@@ -1398,6 +1398,13 @@ footer .newsletter .btn-primary {
 .testimonial .clientsays {
   margin: 60px 0;
 }
+.testimonial .clientsays .card {
+  background-color: transparent;
+  border: none;
+}
+.testimonial .clientsays .card .card-body {
+  padding-top: 0;
+}
 .testimonial .clientsays img {
   width: 80px;
   height: 80px;
